@@ -1,0 +1,2701 @@
+{
+	"result": 200,
+	"data": {
+		"cards": [
+			{
+				"footer": [],
+				"cardtype": 1,
+				"cardorder": 0,
+				"contents": [
+					{
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2018/05/17/1526521308008.jpg",
+						"sno": "16_0_1790_0_1",
+						"order": 0,
+						"thmw": 750,
+						"thmh": 422,
+						"contenturl": "comico://webbrowser?url=http%3A%2F%2Fwww.comico.jp%2Fstore%2Ftitlelist%2F98%3Fapp%3DY",
+						"strval1": "",
+						"hrate": 0.5627
+					},
+					{
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2018/05/17/1526521256981.jpg",
+						"sno": "16_0_1789_1_1",
+						"order": 1,
+						"thmw": 750,
+						"thmh": 422,
+						"contenturl": "comico://webbrowser?url=http%3A%2F%2Fwww.comico.jp%2Fstore%2Ftitlelist%2F97%3Fapp%3DY",
+						"strval1": "",
+						"hrate": 0.5627
+					},
+					{
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2018/05/17/1526538347687.jpg",
+						"sno": "16_0_1792_2_1",
+						"order": 2,
+						"thmw": 750,
+						"thmh": 422,
+						"contenturl": "comico://storearticlelist?titleno=16807&push=Y",
+						"strval1": "",
+						"hrate": 0.5627
+					},
+					{
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2018/05/17/1526524203671.jpg",
+						"sno": "16_0_1791_3_1",
+						"order": 3,
+						"thmw": 750,
+						"thmh": 422,
+						"contenturl": "comico://webbrowser?url=http%3A%2F%2Fwww.comico.jp%2Fstore%2Ftitlelist%2F99%3Fapp%3DY",
+						"strval1": "",
+						"hrate": 0.5627
+					},
+					{
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2018/05/16/1526448852398.jpg",
+						"sno": "16_0_1775_4_1",
+						"order": 4,
+						"thmw": 750,
+						"thmh": 422,
+						"contenturl": "comico://webbrowser?url=http%3A%2F%2Fwww.comico.jp%2Fstore%2Ftitlelist%2F95%3Fapp%3DY",
+						"strval1": "",
+						"hrate": 0.5627
+					},
+					{
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2018/05/16/1526458800030.jpg",
+						"sno": "16_0_1776_5_1",
+						"order": 5,
+						"thmw": 750,
+						"thmh": 422,
+						"contenturl": "comico://webbrowser?url=http%3A%2F%2Fwww.comico.jp%2Fstore%2Ftitlelist%2F96%3Fapp%3DY",
+						"strval1": "",
+						"hrate": 0.5627
+					},
+					{
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2018/05/15/1526347344571.jpg",
+						"sno": "16_0_1769_6_1",
+						"order": 6,
+						"thmw": 750,
+						"thmh": 422,
+						"contenturl": "comico://webbrowser?url=http%3A%2F%2Fwww.comico.jp%2Fstore%2Ftitlelist%2F94%3Fapp%3DY",
+						"strval1": "",
+						"hrate": 0.5627
+					}
+				],
+				"description": "ローテーションバナー",
+				"fontcolor": "",
+				"cardno": 16,
+				"backgroundcolor": "",
+				"header": []
+			},
+			{
+				"footer": [],
+				"cardtype": 2,
+				"cardorder": 1,
+				"contents": [
+					{
+						"icon": "http://comicimg.comico.jp/homecard/tmb/2018/05/11/1526007917753.jpg",
+						"title": "復讐教室",
+						"thm": "http://comicimg.comico.jp/store/2/title/2056/th_7036d8d5.png",
+						"sno": "194_1_1799_0_2",
+						"order": 0,
+						"thmw": 256,
+						"thmh": 364,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=2056&push=Y",
+						"strval1": "復讐教室",
+						"hrate": 1.4219
+					},
+					{
+						"icon": "http://comicimg.comico.jp/homecard/tmb/2018/05/11/1526007917753.jpg",
+						"title": "王子様なんていらない",
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2018/04/12/1523535169970.jpg",
+						"sno": "194_1_1801_1_2",
+						"order": 1,
+						"thmw": 256,
+						"thmh": 364,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=26087&push=Y",
+						"strval1": "王子様なんていらない",
+						"hrate": 1.4219
+					},
+					{
+						"icon": "http://comicimg.comico.jp/homecard/tmb/2018/05/11/1526007917753.jpg",
+						"title": "君とカンビアーレ!",
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2018/01/30/1517290155495.jpg",
+						"sno": "194_1_1802_2_2",
+						"order": 2,
+						"thmw": 380,
+						"thmh": 538,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=1413&push=Y",
+						"strval1": "君とカンビアーレ!",
+						"hrate": 1.4158
+					},
+					{
+						"icon": "http://comicimg.comico.jp/homecard/tmb/2018/05/11/1526007917753.jpg",
+						"title": "泣かせた責任とってくれ",
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2018/02/01/1517455589448.jpg",
+						"sno": "194_1_1800_3_2",
+						"order": 3,
+						"thmw": 380,
+						"thmh": 538,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=574&push=Y",
+						"strval1": "泣かせた責任とってくれ",
+						"hrate": 1.4158
+					},
+					{
+						"icon": "http://comicimg.comico.jp/homecard/tmb/2018/05/11/1526007917753.jpg",
+						"title": "ファイブ+",
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2018/02/08/1518055171529.jpg",
+						"sno": "194_1_1797_4_2",
+						"order": 4,
+						"thmw": 380,
+						"thmh": 538,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=1475&push=Y",
+						"strval1": "ファイブ+",
+						"hrate": 1.4158
+					},
+					{
+						"icon": "http://comicimg.comico.jp/homecard/tmb/2018/05/11/1526007917753.jpg",
+						"title": "ファイブ",
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2018/02/03/1517627496695.jpg",
+						"sno": "194_1_1798_5_2",
+						"order": 5,
+						"thmw": 380,
+						"thmh": 538,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=1472&push=Y",
+						"strval1": "ファイブ",
+						"hrate": 1.4158
+					}
+				],
+				"description": "待てば無料！オススメ作品はこちら",
+				"fontcolor": "",
+				"cardno": 194,
+				"backgroundcolor": "",
+				"option": {
+					"column": 3,
+					"row": 2
+				},
+				"header": [
+					{
+						"text": "",
+						"title": "オススメ注目作品はこちら！",
+						"sno": "194_1_H_0_2",
+						"thm": "",
+						"order": 0,
+						"thmw": 256,
+						"thmh": 364,
+						"contenturl": "",
+						"hrate": 0.7033,
+						"option": {
+							"text": "",
+							"color": ""
+						}
+					}
+				]
+			},
+			{
+				"footer": [],
+				"cardtype": 2,
+				"cardorder": 2,
+				"contents": [
+					{
+						"icon": "http://comicimg.comico.jp/homecard/tmb/2018/04/17/1523927237151.jpg",
+						"title": "きのう、隣の席の彼とキスをした",
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2017/09/21/1505987832979.jpg",
+						"sno": "170_2_1620_0_2",
+						"order": 0,
+						"thmw": 380,
+						"thmh": 538,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=366&push=Y",
+						"strval1": "きのう、隣の席の彼とキスをした",
+						"hrate": 1.4158
+					},
+					{
+						"icon": "http://comicimg.comico.jp/homecard/tmb/2018/04/17/1523927237151.jpg",
+						"title": "片翼の瞳",
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2017/12/01/1512107241842.jpg",
+						"sno": "170_2_1621_1_2",
+						"order": 1,
+						"thmw": 380,
+						"thmh": 538,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=975&push=Y",
+						"strval1": "片翼の瞳",
+						"hrate": 1.4158
+					},
+					{
+						"icon": "http://comicimg.comico.jp/homecard/tmb/2018/04/17/1523927237151.jpg",
+						"title": "また会いたくて",
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2017/11/08/1510110379614.jpg",
+						"sno": "170_2_1616_2_2",
+						"order": 2,
+						"thmw": 380,
+						"thmh": 538,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=615&push=Y",
+						"strval1": "また会いたくて",
+						"hrate": 1.4158
+					},
+					{
+						"icon": "http://comicimg.comico.jp/homecard/tmb/2018/04/17/1523927237151.jpg",
+						"title": "片恋ナミダ",
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2017/12/01/1512107207973.jpg",
+						"sno": "170_2_1617_3_2",
+						"order": 3,
+						"thmw": 380,
+						"thmh": 538,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=972&push=Y",
+						"strval1": "片恋ナミダ",
+						"hrate": 1.4158
+					},
+					{
+						"icon": "http://comicimg.comico.jp/homecard/tmb/2018/04/17/1523927237151.jpg",
+						"title": "極上☆プリンス",
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2017/10/23/1508742481228.jpg",
+						"sno": "170_2_1618_4_2",
+						"order": 4,
+						"thmw": 380,
+						"thmh": 538,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=537&push=Y",
+						"strval1": "極上☆プリンス",
+						"hrate": 1.4158
+					},
+					{
+						"icon": "http://comicimg.comico.jp/homecard/tmb/2018/04/17/1523927237151.jpg",
+						"title": "クロスロード あの日の約束",
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2017/10/23/1508742469512.jpg",
+						"sno": "170_2_1619_5_2",
+						"order": 5,
+						"thmw": 380,
+						"thmh": 538,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=536&push=Y",
+						"strval1": "クロスロード あの日の約束",
+						"hrate": 1.4158
+					}
+				],
+				"description": "双葉社人気恋愛コミック ",
+				"fontcolor": "",
+				"cardno": 170,
+				"backgroundcolor": "",
+				"option": {
+					"column": 3,
+					"row": 2
+				},
+				"header": [
+					{
+						"text": "",
+						"title": "リアルな恋に涙する!! 双葉社人気恋愛コミック ",
+						"sno": "170_2_H_0_2",
+						"thm": "",
+						"order": 0,
+						"thmw": 256,
+						"thmh": 364,
+						"contenturl": "",
+						"hrate": 0.7033,
+						"option": {
+							"text": "",
+							"color": ""
+						}
+					}
+				]
+			},
+			{
+				"footer": [],
+				"cardtype": 2,
+				"cardorder": 3,
+				"contents": [
+					{
+						"icon": "",
+						"title": "私の少年",
+						"thm": "http://comicimg.comico.jp/store/2/title/27427/th_f8aef29c.png",
+						"sno": "185_3_1724_0_2",
+						"order": 0,
+						"thmw": 256,
+						"thmh": 364,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=27427&push=Y",
+						"strval1": "私の少年",
+						"hrate": 1.4219
+					},
+					{
+						"icon": "",
+						"title": "少年アシベ GO! GO! ゴマちゃん",
+						"thm": "http://comicimg.comico.jp/store/2/title/29422/th_4433436f.png",
+						"sno": "185_3_1723_1_2",
+						"order": 1,
+						"thmw": 232,
+						"thmh": 364,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=29422&push=Y",
+						"strval1": "少年アシベ GO! GO! ゴマちゃん",
+						"hrate": 1.569
+					},
+					{
+						"icon": "",
+						"title": "蛍火の灯る頃に",
+						"thm": "http://comicimg.comico.jp/store/2/title/28085/th_2ddb01b0.png",
+						"sno": "185_3_1725_2_2",
+						"order": 2,
+						"thmw": 256,
+						"thmh": 364,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=28085&push=Y",
+						"strval1": "蛍火の灯る頃に",
+						"hrate": 1.4219
+					},
+					{
+						"icon": "",
+						"title": "買い食いハラペコラ",
+						"thm": "http://comicimg.comico.jp/store/2/title/25002/th_49a9f701.png",
+						"sno": "185_3_1726_3_2",
+						"order": 3,
+						"thmw": 256,
+						"thmh": 364,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=25002&push=Y",
+						"strval1": "買い食いハラペコラ",
+						"hrate": 1.4219
+					},
+					{
+						"icon": "",
+						"title": "桐谷さん ちょっそれ食うんすか!?",
+						"thm": "http://comicimg.comico.jp/store/2/title/28087/th_2dccea2f.png",
+						"sno": "185_3_1727_4_2",
+						"order": 4,
+						"thmw": 256,
+						"thmh": 364,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=28087&push=Y",
+						"strval1": "桐谷さん ちょっそれ食うんすか!?",
+						"hrate": 1.4219
+					},
+					{
+						"icon": "",
+						"title": "踏切時間",
+						"thm": "http://comicimg.comico.jp/store/2/title/28511/th_1e40c868.png",
+						"sno": "185_3_1728_5_2",
+						"order": 5,
+						"thmw": 256,
+						"thmh": 363,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=28511&push=Y",
+						"strval1": "踏切時間",
+						"hrate": 1.418
+					}
+				],
+				"description": "月刊アクション創刊５周年記念",
+				"fontcolor": "032833",
+				"cardno": 185,
+				"backgroundcolor": "79D4DA",
+				"option": {
+					"column": 3,
+					"row": 2
+				},
+				"header": [
+					{
+						"text": "",
+						"title": "月刊アクション創刊５周年記念",
+						"sno": "185_3_H_0_2",
+						"thm": "",
+						"order": 0,
+						"thmw": 256,
+						"thmh": 364,
+						"contenturl": "",
+						"hrate": 0.7033,
+						"option": {
+							"text": "",
+							"color": ""
+						}
+					},
+					{
+						"text": "",
+						"title": "もっと見る",
+						"sno": "185_3_H_1_2",
+						"thm": "",
+						"order": 1,
+						"thmw": null,
+						"thmh": null,
+						"contenturl": "comico://webbrowser?url=http%3A%2F%2Fwww.comico.jp%2Fstore%2Ftitlelist%2F99%3Fapp%3DY",
+						"hrate": 0
+					}
+				]
+			},
+			{
+				"footer": [],
+				"cardtype": 2,
+				"cardorder": 4,
+				"contents": [
+					{
+						"icon": "",
+						"title": "王子とヒーロー 分冊版",
+						"thm": "http://comicimg.comico.jp/store/2/title/1345/th_641baad0.png",
+						"sno": "177_4_1659_0_2",
+						"order": 0,
+						"thmw": 446,
+						"thmh": 684,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=1345&push=Y",
+						"strval1": "王子とヒーロー 分冊版",
+						"hrate": 1.5336
+					},
+					{
+						"icon": "",
+						"title": "すべてがFになる -THE PERFECT INSIDER- 分冊版",
+						"thm": "http://comicimg.comico.jp/store/2/title/34685/th_d4af37e7.png",
+						"sno": "177_4_1660_1_2",
+						"order": 1,
+						"thmw": 256,
+						"thmh": 364,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=34685&push=Y",
+						"strval1": "すべてがFになる -THE PERFECT INSIDER- 分冊版",
+						"hrate": 1.4219
+					},
+					{
+						"icon": "",
+						"title": "氷山くんは家庭教師 分冊版",
+						"thm": "http://comicimg.comico.jp/store/2/title/1530/th_7445a8e.png",
+						"sno": "177_4_1661_2_2",
+						"order": 2,
+						"thmw": 446,
+						"thmh": 684,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=1530&push=Y",
+						"strval1": "氷山くんは家庭教師 分冊版",
+						"hrate": 1.5336
+					},
+					{
+						"icon": "",
+						"title": "恋のウニフラ プチキス",
+						"thm": "http://comicimg.comico.jp/store/2/title/37237/th_2ae50d6b.png",
+						"sno": "177_4_1662_3_2",
+						"order": 3,
+						"thmw": 237,
+						"thmh": 364,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=37237&push=Y",
+						"strval1": "恋のウニフラ プチキス",
+						"hrate": 1.5359
+					},
+					{
+						"icon": "",
+						"title": "サイコろまんちか 分冊版",
+						"thm": "http://comicimg.comico.jp/store/2/title/2028/th_50e2ae1c.png",
+						"sno": "177_4_1663_4_2",
+						"order": 4,
+						"thmw": 244,
+						"thmh": 364,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=2028&push=Y",
+						"strval1": "サイコろまんちか 分冊版",
+						"hrate": 1.4918
+					},
+					{
+						"icon": "",
+						"title": "ワルツのお時間 分冊版",
+						"thm": "http://comicimg.comico.jp/store/2/title/2014/th_544c5f5a.png",
+						"sno": "177_4_1664_5_2",
+						"order": 5,
+						"thmw": 237,
+						"thmh": 364,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=2014&push=Y",
+						"strval1": "ワルツのお時間 分冊版",
+						"hrate": 1.5359
+					}
+				],
+				"description": "巻配信「完結マイクロコンテンツ祭り」",
+				"fontcolor": "032833",
+				"cardno": 177,
+				"backgroundcolor": "79D4DA",
+				"option": {
+					"column": 3,
+					"row": 2
+				},
+				"header": [
+					{
+						"text": "",
+						"title": "巻配信「完結マイクロコンテンツ祭り」",
+						"sno": "177_4_H_0_2",
+						"thm": "",
+						"order": 0,
+						"thmw": null,
+						"thmh": null,
+						"contenturl": "",
+						"hrate": 0,
+						"option": {
+							"text": "",
+							"color": ""
+						}
+					}
+				]
+			},
+			{
+				"footer": [],
+				"cardtype": 2,
+				"cardorder": 5,
+				"contents": [
+					{
+						"icon": "http://comicimg.comico.jp/homecard/tmb/2017/11/02/1509600570151.jpg",
+						"title": "ビシバシ純情BOY",
+						"thm": "http://comicimg.comico.jp/store/2/title/38113/th_440a10dd.png",
+						"sno": "78_5_961_0_2",
+						"order": 0,
+						"thmw": 228,
+						"thmh": 364,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=38113&push=Y",
+						"strval1": "ビシバシ純情BOY",
+						"hrate": 1.5965
+					},
+					{
+						"icon": "http://comicimg.comico.jp/homecard/tmb/2017/11/02/1509600570151.jpg",
+						"title": "クッキングピープル",
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2018/04/18/1524033775121.jpg",
+						"sno": "78_5_631_1_2",
+						"order": 1,
+						"thmw": 256,
+						"thmh": 364,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=38178&push=Y",
+						"strval1": "クッキングピープル",
+						"hrate": 1.4219
+					},
+					{
+						"icon": "http://comicimg.comico.jp/homecard/tmb/2017/11/02/1509600570151.jpg",
+						"title": "ANDOL",
+						"thm": "http://comicimg.comico.jp/store/2/title/43209/th_d4a5cfca.png",
+						"sno": "78_5_598_2_2",
+						"order": 2,
+						"thmw": 252,
+						"thmh": 364,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=43209&push=Y",
+						"strval1": "ANDOL",
+						"hrate": 1.4444
+					},
+					{
+						"icon": "http://comicimg.comico.jp/homecard/tmb/2017/11/02/1509600570151.jpg",
+						"title": "15DAYS ～ぼくらの声をきいて～",
+						"thm": "http://comicimg.comico.jp/store/2/title/38111/th_44263fdf.png",
+						"sno": "78_5_600_3_2",
+						"order": 3,
+						"thmw": 228,
+						"thmh": 364,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=38111&push=Y",
+						"strval1": "15DAYS ～ぼくらの声をきいて～",
+						"hrate": 1.5965
+					},
+					{
+						"icon": "http://comicimg.comico.jp/homecard/tmb/2017/11/02/1509600570151.jpg",
+						"title": "恋ヶ窪プリンセスハニー",
+						"thm": "http://comicimg.comico.jp/store/2/title/43189/th_d711d9f6.png",
+						"sno": "78_5_597_4_2",
+						"order": 4,
+						"thmw": 256,
+						"thmh": 363,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=43189&push=Y",
+						"strval1": "恋ヶ窪プリンセスハニー",
+						"hrate": 1.418
+					},
+					{
+						"icon": "http://comicimg.comico.jp/homecard/tmb/2017/11/02/1509600570151.jpg",
+						"title": "FINEな彼女",
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2018/04/18/1524033507192.jpg",
+						"sno": "78_5_599_5_2",
+						"order": 5,
+						"thmw": 256,
+						"thmh": 364,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=38112&push=Y",
+						"strval1": "FINEな彼女",
+						"hrate": 1.4219
+					}
+				],
+				"description": "新作",
+				"fontcolor": "",
+				"cardno": 78,
+				"backgroundcolor": "",
+				"option": {
+					"column": 3,
+					"row": 2
+				},
+				"header": [
+					{
+						"text": "",
+						"title": "新作・新巻ぞくぞく入荷",
+						"sno": "78_5_H_0_2",
+						"thm": "",
+						"order": 0,
+						"thmw": 256,
+						"thmh": 364,
+						"contenturl": "",
+						"hrate": 0.7033,
+						"option": {
+							"text": "",
+							"color": ""
+						}
+					},
+					{
+						"text": "",
+						"title": "もっと見る",
+						"sno": "78_5_H_1_2",
+						"thm": "",
+						"order": 1,
+						"thmw": null,
+						"thmh": null,
+						"contenturl": "comico://webbrowser?url=http%3A%2F%2Fwww.comico.jp%2Fstore%2Fnewtitle%2Findex.nhn%3Fapp%3DY",
+						"hrate": 0
+					}
+				]
+			},
+			{
+				"footer": [],
+				"cardtype": 2,
+				"cardorder": 6,
+				"contents": [
+					{
+						"icon": "",
+						"title": "熱愛プリンス お兄ちゃんはキミが好き",
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2018/04/27/1524822215458.jpg",
+						"sno": "102_6_958_0_2",
+						"order": 0,
+						"thmw": 256,
+						"thmh": 364,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=309&push=Y",
+						"strval1": "熱愛プリンス お兄ちゃんはキミが好き",
+						"hrate": 1.4219
+					},
+					{
+						"icon": "",
+						"title": "恋愛不感症ーホントはもっと感じたいー",
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2018/03/23/1521775417543.jpg",
+						"sno": "102_6_956_1_2",
+						"order": 1,
+						"thmw": 256,
+						"thmh": 364,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=359&push=Y",
+						"strval1": "恋愛不感症ーホントはもっと感じたいー",
+						"hrate": 1.4219
+					},
+					{
+						"icon": "",
+						"title": "汚された天使-制服の中の秘密-",
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2017/10/19/1508393989051.jpg",
+						"sno": "102_6_959_2_2",
+						"order": 2,
+						"thmw": 380,
+						"thmh": 538,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=498&push=Y",
+						"strval1": "汚された天使-制服の中の秘密-",
+						"hrate": 1.4158
+					},
+					{
+						"icon": "",
+						"title": "のぼさんとカノジョ?",
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2018/03/07/1520394088332.jpg",
+						"sno": "102_6_957_3_2",
+						"order": 3,
+						"thmw": 256,
+						"thmh": 364,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=1866&push=Y",
+						"strval1": "のぼさんとカノジョ?",
+						"hrate": 1.4219
+					},
+					{
+						"icon": "",
+						"title": "愛になるまであたためて",
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2017/10/06/1507272719365.jpg",
+						"sno": "102_6_960_4_2",
+						"order": 4,
+						"thmw": 380,
+						"thmh": 538,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=361&push=Y",
+						"strval1": "愛になるまであたためて",
+						"hrate": 1.4158
+					}
+				],
+				"description": "イチオシ　人気急上昇タイトル",
+				"fontcolor": "",
+				"cardno": 102,
+				"backgroundcolor": "",
+				"option": {
+					"column": 3,
+					"row": 1
+				},
+				"header": [
+					{
+						"text": "",
+						"title": "イチオシ　人気急上昇タイトル",
+						"sno": "102_6_H_0_2",
+						"thm": "",
+						"order": 0,
+						"thmw": null,
+						"thmh": null,
+						"contenturl": "",
+						"hrate": 0,
+						"option": {
+							"text": "",
+							"color": ""
+						}
+					}
+				]
+			},
+			{
+				"footer": [],
+				"cardtype": 9,
+				"cardorder": 7,
+				"contents": [
+					{
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2018/05/17/1526538495128.jpg",
+						"sno": "66_7_1793_0_9",
+						"order": 0,
+						"thmw": 1080,
+						"thmh": 306,
+						"contenturl": "comico://storearticlelist?titleno=16807&push=Y",
+						"strval1": "",
+						"hrate": 0.2833
+					},
+					{
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2018/04/25/1524637939465.jpg",
+						"sno": "66_7_1692_1_9",
+						"order": 1,
+						"thmw": 984,
+						"thmh": 393,
+						"contenturl": "comico://webbrowser?url=http%3A%2F%2Fwww.comico.jp%2Fnotice%2Fdetail.nhn%3Fno%3D2798",
+						"strval1": "",
+						"hrate": 0.3994
+					},
+					{
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2017/09/11/1505122124213.jpg",
+						"sno": "66_7_1539_2_9",
+						"order": 2,
+						"thmw": 1080,
+						"thmh": 306,
+						"contenturl": "comico://storearticlelist?titleno=199&push=Y",
+						"strval1": "",
+						"hrate": 0.2833
+					}
+				],
+				"description": "作品紹介バナー1",
+				"fontcolor": "",
+				"cardno": 66,
+				"backgroundcolor": "",
+				"header": []
+			},
+			{
+				"footer": [],
+				"cardtype": 2,
+				"cardorder": 8,
+				"contents": [
+					{
+						"icon": "",
+						"title": "美醜の大地～復讐のために顔を捨てた女～(分冊版)",
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2018/02/26/1519632299281.jpg",
+						"sno": "97_8_889_0_2",
+						"order": 0,
+						"thmw": 256,
+						"thmh": 364,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=1708&push=Y",
+						"strval1": "美醜の大地～復讐のために顔を捨てた女～(分冊版)",
+						"hrate": 1.4219
+					},
+					{
+						"icon": "",
+						"title": "BTOOOM!",
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2018/01/16/1516084820329.jpg",
+						"sno": "97_8_890_1_2",
+						"order": 1,
+						"thmw": 380,
+						"thmh": 538,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=1356&push=Y",
+						"strval1": "BTOOOM!",
+						"hrate": 1.4158
+					},
+					{
+						"icon": "",
+						"title": "イジメの時間",
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2018/02/01/1517461924035.jpg",
+						"sno": "97_8_891_2_2",
+						"order": 2,
+						"thmw": 380,
+						"thmh": 538,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=1471&push=Y",
+						"strval1": "イジメの時間",
+						"hrate": 1.4158
+					},
+					{
+						"icon": "",
+						"title": "トモグイ～人間狩り～",
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2017/11/16/1510817189111.jpg",
+						"sno": "97_8_892_3_2",
+						"order": 3,
+						"thmw": 380,
+						"thmh": 538,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=275&push=Y",
+						"strval1": "トモグイ～人間狩り～",
+						"hrate": 1.4158
+					},
+					{
+						"icon": "",
+						"title": "モンキーピーク",
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2017/11/17/1510896371130.jpg",
+						"sno": "97_8_893_4_2",
+						"order": 4,
+						"thmw": 380,
+						"thmh": 538,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=183&push=Y",
+						"strval1": "モンキーピーク",
+						"hrate": 1.4158
+					}
+				],
+				"description": "刺激的な作品はいかが？",
+				"fontcolor": "",
+				"cardno": 97,
+				"backgroundcolor": "",
+				"option": {
+					"column": 3,
+					"row": 1
+				},
+				"header": [
+					{
+						"text": "",
+						"title": "刺激的な作品はいかが？",
+						"sno": "97_8_H_0_2",
+						"thm": "",
+						"order": 0,
+						"thmw": null,
+						"thmh": null,
+						"contenturl": "",
+						"hrate": 0,
+						"option": {
+							"text": "",
+							"color": ""
+						}
+					}
+				]
+			},
+			{
+				"footer": [],
+				"cardtype": 2,
+				"cardorder": 9,
+				"contents": [
+					{
+						"icon": "",
+						"title": "黒燿のシークは愛を囁く",
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2018/02/01/1517455506694.jpg",
+						"sno": "22_9_315_0_2",
+						"order": 0,
+						"thmw": 380,
+						"thmh": 538,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=319&push=Y",
+						"strval1": "黒燿のシークは愛を囁く",
+						"hrate": 1.4158
+					},
+					{
+						"icon": "",
+						"title": "永久指名おねがいします!",
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2017/11/21/1511226542315.jpg",
+						"sno": "22_9_246_1_2",
+						"order": 1,
+						"thmw": 380,
+						"thmh": 538,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=199&push=Y",
+						"strval1": "永久指名おねがいします!",
+						"hrate": 1.4158
+					},
+					{
+						"icon": "",
+						"title": "大正ロマンチカ",
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2018/03/01/1519869077937.jpg",
+						"sno": "22_9_900_2_2",
+						"order": 2,
+						"thmw": 256,
+						"thmh": 364,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=308&push=Y",
+						"strval1": "大正ロマンチカ",
+						"hrate": 1.4219
+					},
+					{
+						"icon": "",
+						"title": "マリーミー!",
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2017/12/18/1513582791795.jpg",
+						"sno": "22_9_901_3_2",
+						"order": 3,
+						"thmw": 380,
+						"thmh": 538,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=220&push=Y",
+						"strval1": "マリーミー!",
+						"hrate": 1.4158
+					},
+					{
+						"icon": "",
+						"title": "小悪魔くんの甘い囁き",
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2017/10/27/1509068498426.jpg",
+						"sno": "22_9_83_4_2",
+						"order": 4,
+						"thmw": 380,
+						"thmh": 538,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=496&push=Y",
+						"strval1": "小悪魔くんの甘い囁き",
+						"hrate": 1.4158
+					}
+				],
+				"description": "女性必見",
+				"fontcolor": "",
+				"cardno": 22,
+				"backgroundcolor": "",
+				"option": {
+					"column": 3,
+					"row": 1
+				},
+				"header": [
+					{
+						"text": "",
+						"title": "色んな恋の形あつめました。",
+						"sno": "22_9_H_0_2",
+						"thm": "",
+						"order": 0,
+						"thmw": null,
+						"thmh": null,
+						"contenturl": "",
+						"hrate": 0,
+						"option": {
+							"text": "女性必見",
+							"color": "F15576"
+						}
+					}
+				]
+			},
+			{
+				"footer": [],
+				"cardtype": 9,
+				"cardorder": 10,
+				"contents": [
+					{
+						"thm": "http://images.comico.jp/pr/plus_ad_712x160.jpg",
+						"sno": "67_10_1506_0_9",
+						"order": 0,
+						"thmw": 712,
+						"thmh": 160,
+						"contenturl": "comico://webbrowser?url=https%3A%2F%2Fid.comico.jp%2Freward%2Fredierct%2Fcyberagent.nhn%3FserviceId%3D1%26app%3DY",
+						"strval1": "FFFFFF",
+						"hrate": 0.2247
+					}
+				],
+				"description": "【PR】CAリワード",
+				"fontcolor": "",
+				"cardno": 67,
+				"backgroundcolor": "",
+				"header": [
+					{
+						"text": "",
+						"title": "先読み話をタダ読みしちゃう？",
+						"sno": "67_10_H_0_9",
+						"thm": "",
+						"order": 0,
+						"thmw": null,
+						"thmh": null,
+						"contenturl": "",
+						"hrate": 0,
+						"option": {
+							"text": "",
+							"color": ""
+						}
+					}
+				]
+			},
+			{
+				"footer": [],
+				"cardtype": 2,
+				"cardorder": 11,
+				"contents": [
+					{
+						"icon": "http://comicimg.comico.jp/homecard/tmb/2017/11/02/1509600570151.jpg",
+						"title": "双子の親になりました",
+						"thm": "http://comicimg.comico.jp/store/2/title/38109/th_44426ee1.png",
+						"sno": "52_11_469_0_2",
+						"order": 0,
+						"thmw": 256,
+						"thmh": 363,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=38109&push=Y",
+						"strval1": "双子の親になりました",
+						"hrate": 1.418
+					},
+					{
+						"icon": "http://comicimg.comico.jp/homecard/tmb/2017/11/02/1509600570151.jpg",
+						"title": "ふたりごと",
+						"thm": "http://comicimg.comico.jp/store/2/title/38108/th_44508662.png",
+						"sno": "52_11_470_1_2",
+						"order": 1,
+						"thmw": 256,
+						"thmh": 364,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=38108&push=Y",
+						"strval1": "ふたりごと",
+						"hrate": 1.4219
+					},
+					{
+						"icon": "http://comicimg.comico.jp/homecard/tmb/2017/11/02/1509600570151.jpg",
+						"title": "結婚できないヤツラの自虐的戦闘記",
+						"thm": "http://comicimg.comico.jp/store/2/title/38087/th_4936b23b.png",
+						"sno": "52_11_466_2_2",
+						"order": 2,
+						"thmw": 256,
+						"thmh": 363,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=38087&push=Y",
+						"strval1": "結婚できないヤツラの自虐的戦闘記",
+						"hrate": 1.418
+					},
+					{
+						"icon": "http://comicimg.comico.jp/homecard/tmb/2017/11/02/1509600570151.jpg",
+						"title": "グッド･バイ",
+						"thm": "http://comicimg.comico.jp/store/2/title/38051/th_3d6f0c65.png",
+						"sno": "52_11_467_3_2",
+						"order": 3,
+						"thmw": 256,
+						"thmh": 363,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=38051&push=Y",
+						"strval1": "グッド･バイ",
+						"hrate": 1.418
+					},
+					{
+						"icon": "http://comicimg.comico.jp/homecard/tmb/2017/11/02/1509600570151.jpg",
+						"title": "深追い【コミック版】",
+						"thm": "http://comicimg.comico.jp/store/2/title/38110/th_44345760.png",
+						"sno": "52_11_1696_4_2",
+						"order": 4,
+						"thmw": 255,
+						"thmh": 364,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=38110&push=Y",
+						"strval1": "深追い【コミック版】",
+						"hrate": 1.4275
+					},
+					{
+						"icon": "http://comicimg.comico.jp/homecard/tmb/2017/11/02/1509600570151.jpg",
+						"title": "芸者さんの言うとおり",
+						"thm": "http://comicimg.comico.jp/store/2/title/38049/th_3d7d23e6.png",
+						"sno": "52_11_468_5_2",
+						"order": 5,
+						"thmw": 256,
+						"thmh": 364,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=38049&push=Y",
+						"strval1": "芸者さんの言うとおり",
+						"hrate": 1.4219
+					}
+				],
+				"description": "見逃し注意の人気タイトル！",
+				"fontcolor": "",
+				"cardno": 52,
+				"backgroundcolor": "",
+				"option": {
+					"column": 3,
+					"row": 1
+				},
+				"header": [
+					{
+						"text": "",
+						"title": "見逃し注意の人気タイトル！",
+						"sno": "52_11_H_0_2",
+						"thm": "",
+						"order": 0,
+						"thmw": 256,
+						"thmh": 364,
+						"contenturl": "",
+						"hrate": 0.7033,
+						"option": {
+							"text": "",
+							"color": ""
+						}
+					}
+				]
+			},
+			{
+				"footer": [],
+				"cardtype": 2,
+				"cardorder": 12,
+				"contents": [
+					{
+						"icon": "",
+						"title": "オンライン The Comic",
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2017/12/05/1512456831171.jpg",
+						"sno": "17_12_488_0_2",
+						"order": 0,
+						"thmw": 380,
+						"thmh": 538,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=122&push=Y",
+						"strval1": "オンライン The Comic",
+						"hrate": 1.4158
+					},
+					{
+						"icon": "",
+						"title": "僕の部屋がダンジョンの休憩所になってしまった件【パートカラー版】",
+						"thm": "http://comicimg.comico.jp/store/2/title/39730/th_353b5e50.png",
+						"sno": "17_12_242_1_2",
+						"order": 1,
+						"thmw": 256,
+						"thmh": 364,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=39730&push=Y",
+						"strval1": "僕の部屋がダンジョンの休憩所になってしまった件【パートカラー版】",
+						"hrate": 1.4219
+					},
+					{
+						"icon": "",
+						"title": "王様ゲーム 起源",
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2017/11/17/1510897432457.jpg",
+						"sno": "17_12_238_2_2",
+						"order": 2,
+						"thmw": 380,
+						"thmh": 538,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=620&push=Y",
+						"strval1": "王様ゲーム 起源",
+						"hrate": 1.4158
+					},
+					{
+						"icon": "",
+						"title": "静かなるドン",
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2017/11/07/1510026525924.jpg",
+						"sno": "17_12_241_3_2",
+						"order": 3,
+						"thmw": 380,
+						"thmh": 538,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=216&push=Y",
+						"strval1": "静かなるドン",
+						"hrate": 1.4158
+					},
+					{
+						"icon": "",
+						"title": "かんかん橋をわたって",
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2017/11/13/1510574263829.jpg",
+						"sno": "17_12_237_4_2",
+						"order": 4,
+						"thmw": 380,
+						"thmh": 538,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=55&push=Y",
+						"strval1": "かんかん橋をわたって",
+						"hrate": 1.4158
+					}
+				],
+				"description": "読まなきゃ損するオススメ作品\t\t\t",
+				"fontcolor": "",
+				"cardno": 17,
+				"backgroundcolor": "",
+				"option": {
+					"column": 3,
+					"row": 1
+				},
+				"header": [
+					{
+						"text": "",
+						"title": "読まなきゃ損するオススメ作品\t\t\t",
+						"sno": "17_12_H_0_2",
+						"thm": "",
+						"order": 0,
+						"thmw": null,
+						"thmh": null,
+						"contenturl": "",
+						"hrate": 0,
+						"option": {
+							"text": "",
+							"color": ""
+						}
+					}
+				]
+			},
+			{
+				"footer": [],
+				"cardtype": 9,
+				"cardorder": 13,
+				"contents": [
+					{
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2018/05/17/1526538561452.jpg",
+						"sno": "21_13_1794_0_9",
+						"order": 0,
+						"thmw": 1080,
+						"thmh": 306,
+						"contenturl": "comico://webbrowser?url=http%3A%2F%2Fwww.comico.jp%2Fstore%2Ftitlelist%2F94%3Fapp%3DY",
+						"strval1": "",
+						"hrate": 0.2833
+					},
+					{
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2018/05/11/1526024669285.jpg",
+						"sno": "21_13_1762_1_9",
+						"order": 1,
+						"thmw": 1080,
+						"thmh": 306,
+						"contenturl": "comico://webbrowser?url=http%3A%2F%2Fwww.comico.jp%2Fstore%2Ftitlelist%2F92%3Fapp%3DY",
+						"strval1": "",
+						"hrate": 0.2833
+					},
+					{
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2018/03/29/1522292151215.jpg",
+						"sno": "21_13_1679_2_9",
+						"order": 2,
+						"thmw": 1080,
+						"thmh": 306,
+						"contenturl": "comico://storearticlelist?titleno=1853&push=Y",
+						"strval1": "",
+						"hrate": 0.2833
+					},
+					{
+						"thm": "http://origin.comicimg.comico.jp/homecard/tmb/2018/02/14/1518601130459.jpg",
+						"sno": "21_13_1540_3_9",
+						"order": 3,
+						"thmw": 1080,
+						"thmh": 306,
+						"contenturl": "comico://storearticlelist?titleno=1008&push=Y",
+						"strval1": "",
+						"hrate": 0.2833
+					},
+					{
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2018/01/09/1515479813426.jpg",
+						"sno": "21_13_1515_4_9",
+						"order": 4,
+						"thmw": 1080,
+						"thmh": 306,
+						"contenturl": "comico://storearticlelist?titleno=573&push=Y",
+						"strval1": "",
+						"hrate": 0.2833
+					},
+					{
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2017/09/15/1505447234874.jpg",
+						"sno": "21_13_833_5_9",
+						"order": 5,
+						"thmw": 984,
+						"thmh": 393,
+						"contenturl": "comico://storearticlelist?titleno=141&push=Y",
+						"strval1": "",
+						"hrate": 0.3994
+					},
+					{
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2017/11/13/1510568464044.jpg",
+						"sno": "21_13_821_6_9",
+						"order": 6,
+						"thmw": 1080,
+						"thmh": 306,
+						"contenturl": "comico://storearticlelist?titleno=145&push=Y",
+						"strval1": "",
+						"hrate": 0.2833
+					}
+				],
+				"description": "作品バナー2 ",
+				"fontcolor": "",
+				"cardno": 21,
+				"backgroundcolor": "",
+				"header": []
+			},
+			{
+				"footer": [],
+				"cardtype": 2,
+				"cardorder": 14,
+				"contents": [
+					{
+						"icon": "",
+						"title": "0距離恋愛ー上司と同棲はじめましたー",
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2018/03/14/1521008252620.jpg",
+						"sno": "29_14_904_0_2",
+						"order": 0,
+						"thmw": 256,
+						"thmh": 364,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=1988&push=Y",
+						"strval1": "0距離恋愛ー上司と同棲はじめましたー",
+						"hrate": 1.4219
+					},
+					{
+						"icon": "",
+						"title": "僕は今夜、妹と",
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2017/10/05/1507200077397.jpg",
+						"sno": "29_14_903_1_2",
+						"order": 1,
+						"thmw": 380,
+						"thmh": 538,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=441&push=Y",
+						"strval1": "僕は今夜、妹と",
+						"hrate": 1.4158
+					},
+					{
+						"icon": "",
+						"title": "ヒミツの時間",
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2018/03/14/1521008315496.jpg",
+						"sno": "29_14_902_2_2",
+						"order": 2,
+						"thmw": 256,
+						"thmh": 364,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=2011&push=Y",
+						"strval1": "ヒミツの時間",
+						"hrate": 1.4219
+					},
+					{
+						"icon": "",
+						"title": "天に恋う",
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2017/11/09/1510205426536.jpg",
+						"sno": "29_14_815_3_2",
+						"order": 3,
+						"thmw": 380,
+						"thmh": 538,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=318&push=Y",
+						"strval1": "天に恋う",
+						"hrate": 1.4158
+					},
+					{
+						"icon": "",
+						"title": "僕にオトナの恋を教えて",
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2017/10/05/1507200098402.jpg",
+						"sno": "29_14_263_4_2",
+						"order": 4,
+						"thmw": 380,
+						"thmh": 538,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=443&push=Y",
+						"strval1": "僕にオトナの恋を教えて",
+						"hrate": 1.4158
+					}
+				],
+				"description": "女性向けテーマ",
+				"fontcolor": "",
+				"cardno": 29,
+				"backgroundcolor": "",
+				"option": {
+					"column": 3,
+					"row": 1
+				},
+				"header": [
+					{
+						"text": "",
+						"title": "お気に入りのイケメンがきっとみつかる！",
+						"sno": "29_14_H_0_2",
+						"thm": "",
+						"order": 0,
+						"thmw": null,
+						"thmh": null,
+						"contenturl": "",
+						"hrate": 0,
+						"option": {
+							"text": "",
+							"color": ""
+						}
+					}
+				]
+			},
+			{
+				"footer": [],
+				"cardtype": 2,
+				"cardorder": 15,
+				"contents": [
+					{
+						"icon": "",
+						"title": "王様ゲーム",
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2017/09/28/1506596347612.jpg",
+						"sno": "53_15_906_0_2",
+						"order": 0,
+						"thmw": 380,
+						"thmh": 538,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=433&push=Y",
+						"strval1": "王様ゲーム",
+						"hrate": 1.4158
+					},
+					{
+						"icon": "",
+						"title": "ミスミソウ 完全版",
+						"thm": "http://comicimg.comico.jp/store/2/title/2055/th_7044f056.png",
+						"sno": "53_15_405_1_2",
+						"order": 1,
+						"thmw": 256,
+						"thmh": 364,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=2055&push=Y",
+						"strval1": "ミスミソウ 完全版",
+						"hrate": 1.4219
+					},
+					{
+						"icon": "",
+						"title": "インベスターZ",
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2017/11/28/1511841574421.jpg",
+						"sno": "53_15_908_2_2",
+						"order": 2,
+						"thmw": 380,
+						"thmh": 538,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=48&push=Y",
+						"strval1": "インベスターZ",
+						"hrate": 1.4158
+					},
+					{
+						"icon": "",
+						"title": "パンプキンナイト",
+						"thm": "http://comicimg.comico.jp/store/2/title/2045/th_68b86f4d.png",
+						"sno": "53_15_905_3_2",
+						"order": 3,
+						"thmw": 256,
+						"thmh": 362,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=2045&push=Y",
+						"strval1": "パンプキンナイト",
+						"hrate": 1.4141
+					},
+					{
+						"icon": "",
+						"title": "ドクムシ",
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2017/11/15/1510723584237.jpg",
+						"sno": "53_15_907_4_2",
+						"order": 4,
+						"thmw": 380,
+						"thmh": 538,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=619&push=Y",
+						"strval1": "ドクムシ",
+						"hrate": 1.4158
+					}
+				],
+				"description": "男性向けテーマ",
+				"fontcolor": "",
+				"cardno": 53,
+				"backgroundcolor": "",
+				"option": {
+					"column": 3,
+					"row": 1
+				},
+				"header": [
+					{
+						"text": "",
+						"title": "男性にオススメ人気作品",
+						"sno": "53_15_H_0_2",
+						"thm": "",
+						"order": 0,
+						"thmw": null,
+						"thmh": null,
+						"contenturl": "",
+						"hrate": 0,
+						"option": {
+							"text": "",
+							"color": ""
+						}
+					}
+				]
+			},
+			{
+				"footer": [],
+				"cardtype": 9,
+				"cardorder": 16,
+				"contents": [
+					{
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2018/02/06/1517897209880.jpg",
+						"sno": "58_16_1707_0_9",
+						"order": 0,
+						"thmw": 1080,
+						"thmh": 306,
+						"contenturl": "comico://storearticlelist?titleno=1413&push=Y",
+						"strval1": "",
+						"hrate": 0.2833
+					},
+					{
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2017/10/26/1508999858210.jpg",
+						"sno": "58_16_1516_1_9",
+						"order": 1,
+						"thmw": 1080,
+						"thmh": 306,
+						"contenturl": "comico://storearticlelist?titleno=452&push=Y",
+						"strval1": "",
+						"hrate": 0.2833
+					},
+					{
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2017/10/19/1508410764892.jpg",
+						"sno": "58_16_1422_2_9",
+						"order": 2,
+						"thmw": 1080,
+						"thmh": 306,
+						"contenturl": "comico://storearticlelist?titleno=461&push=Y",
+						"strval1": "",
+						"hrate": 0.2833
+					}
+				],
+				"description": "バナー3",
+				"fontcolor": "",
+				"cardno": 58,
+				"backgroundcolor": "",
+				"header": []
+			},
+			{
+				"footer": [],
+				"cardtype": 25,
+				"cardorder": 17,
+				"count": 3,
+				"contents": [
+					{
+						"order": 0,
+						"items": [
+							{
+								"title": "りぶねす",
+								"sno": "18_17_67_0_25",
+								"thm": "http://comicimg.comico.jp/store/2/title/35453/th_55934c62.png",
+								"order": 0,
+								"description": "",
+								"thmw": 480,
+								"thmh": 684,
+								"subtitle": "堂本裕貴",
+								"contenturl": "comico://storearticlelist?titleno=35453&push=Y",
+								"hrate": 1.425
+							},
+							{
+								"title": "イクメン!",
+								"sno": "18_17_67_1_25",
+								"thm": "http://comicimg.comico.jp/store/2/title/33347/th_10981e19.png",
+								"order": 1,
+								"description": "",
+								"thmw": 480,
+								"thmh": 684,
+								"subtitle": "森脇葵",
+								"contenturl": "comico://storearticlelist?titleno=33347&push=Y",
+								"hrate": 1.425
+							},
+							{
+								"title": "王子様なんていらない",
+								"sno": "18_17_67_2_25",
+								"thm": "http://comicimg.comico.jp/store/2/title/26087/th_a57c6cc7.png",
+								"order": 2,
+								"description": "",
+								"thmw": 480,
+								"thmh": 684,
+								"subtitle": "宮田ワルツ",
+								"contenturl": "comico://storearticlelist?titleno=26087&push=Y",
+								"hrate": 1.425
+							}
+						],
+						"tag": "男性人気作品",
+						"tagtitle": "男性人気作品"
+					},
+					{
+						"order": 1,
+						"items": [
+							{
+								"title": "L･DK",
+								"sno": "18_17_67_0_25",
+								"thm": "http://comicimg.comico.jp/store/2/title/33815/th_69b02b40.png",
+								"order": 0,
+								"description": "",
+								"thmw": 480,
+								"thmh": 684,
+								"subtitle": "渡辺あゆ",
+								"contenturl": "comico://storearticlelist?titleno=33815&push=Y",
+								"hrate": 1.425
+							},
+							{
+								"title": "永久指名おねがいします!",
+								"sno": "18_17_67_1_25",
+								"thm": "http://comicimg.comico.jp/store/2/title/199/th_dc7c6639.png",
+								"order": 1,
+								"description": "",
+								"thmw": 480,
+								"thmh": 684,
+								"subtitle": "カナエサト",
+								"contenturl": "comico://storearticlelist?titleno=199&push=Y",
+								"hrate": 1.425
+							},
+							{
+								"title": "王子様なんていらない",
+								"sno": "18_17_67_2_25",
+								"thm": "http://comicimg.comico.jp/store/2/title/26087/th_a57c6cc7.png",
+								"order": 2,
+								"description": "",
+								"thmw": 480,
+								"thmh": 684,
+								"subtitle": "宮田ワルツ",
+								"contenturl": "comico://storearticlelist?titleno=26087&push=Y",
+								"hrate": 1.425
+							}
+						],
+						"tag": "女性人気作品",
+						"tagtitle": "女性人気作品"
+					}
+				],
+				"description": "",
+				"fontcolor": "",
+				"cardno": 18,
+				"backgroundcolor": "",
+				"header": [
+					{
+						"text": "",
+						"title": "性別ランキング",
+						"sno": "18_17_H_0_25",
+						"thm": "",
+						"order": 0,
+						"thmw": null,
+						"thmh": null,
+						"contenturl": "",
+						"hrate": 0,
+						"option": {
+							"text": "",
+							"color": ""
+						}
+					},
+					{
+						"text": "",
+						"title": "もっと見る",
+						"sno": "18_17_H_1_25",
+						"thm": "",
+						"order": 1,
+						"thmw": null,
+						"thmh": null,
+						"contenturl": "comico://storeranking?push=Y&title=%E7%94%B7%E6%80%A7%E3%81%AB%E4%BA%BA%E6%B0%97",
+						"hrate": 0
+					}
+				]
+			},
+			{
+				"footer": [],
+				"cardtype": 2,
+				"cardorder": 18,
+				"contents": [
+					{
+						"icon": "",
+						"title": "アイノ証明～キスだけで終わらせないで～",
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2018/03/14/1521008292060.jpg",
+						"sno": "20_18_909_0_2",
+						"order": 0,
+						"thmw": 256,
+						"thmh": 364,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=1995&push=Y",
+						"strval1": "アイノ証明～キスだけで終わらせないで～",
+						"hrate": 1.4219
+					},
+					{
+						"icon": "",
+						"title": "comic Berry's速水社長、そのキスの理由を教えて",
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2017/12/07/1512633332690.jpg",
+						"sno": "20_18_268_1_2",
+						"order": 1,
+						"thmw": 380,
+						"thmh": 538,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=999&push=Y",
+						"strval1": "comic Berry's速水社長、そのキスの理由を教えて",
+						"hrate": 1.4158
+					},
+					{
+						"icon": "",
+						"title": "私と上司の内緒の事情",
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2017/09/22/1506063509047.jpg",
+						"sno": "20_18_78_2_2",
+						"order": 2,
+						"thmw": 380,
+						"thmh": 538,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=358&push=Y",
+						"strval1": "私と上司の内緒の事情",
+						"hrate": 1.4158
+					},
+					{
+						"icon": "",
+						"title": "パパが男に変わるとき",
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2018/03/07/1520394099438.jpg",
+						"sno": "20_18_270_3_2",
+						"order": 3,
+						"thmw": 256,
+						"thmh": 364,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=1867&push=Y",
+						"strval1": "パパが男に変わるとき",
+						"hrate": 1.4219
+					},
+					{
+						"icon": "",
+						"title": "制服を脱いだら",
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2017/12/26/1514277741716.jpg",
+						"sno": "20_18_269_4_2",
+						"order": 4,
+						"thmw": 380,
+						"thmh": 538,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=1217&push=Y",
+						"strval1": "制服を脱いだら",
+						"hrate": 1.4158
+					}
+				],
+				"description": "何を読むか悩んだらこれ！",
+				"fontcolor": "",
+				"cardno": 20,
+				"backgroundcolor": "",
+				"option": {
+					"column": 3,
+					"row": 1
+				},
+				"header": [
+					{
+						"text": "",
+						"title": "何を読むか悩んだらこれ！",
+						"sno": "20_18_H_0_2",
+						"thm": "",
+						"order": 0,
+						"thmw": null,
+						"thmh": null,
+						"contenturl": "",
+						"hrate": 0,
+						"option": {
+							"text": "",
+							"color": ""
+						}
+					}
+				]
+			},
+			{
+				"footer": [],
+				"cardtype": 9,
+				"cardorder": 19,
+				"contents": [
+					{
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2018/05/17/1526538682745.jpg",
+						"sno": "28_19_1795_0_9",
+						"order": 0,
+						"thmw": 1080,
+						"thmh": 306,
+						"contenturl": "comico://webbrowser?url=http%3A%2F%2Fwww.comico.jp%2Fstore%2Ftitlelist%2F99%3Fapp%3DY",
+						"strval1": "",
+						"hrate": 0.2833
+					},
+					{
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2018/04/17/1523929507155.jpg",
+						"sno": "28_19_1699_1_9",
+						"order": 1,
+						"thmw": 1080,
+						"thmh": 306,
+						"contenturl": "comico://storearticlelist?titleno=122&push=Y",
+						"strval1": "",
+						"hrate": 0.2833
+					},
+					{
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2017/11/16/1510816741398.jpg",
+						"sno": "28_19_434_2_9",
+						"order": 2,
+						"thmw": 1080,
+						"thmh": 306,
+						"contenturl": "comico://storearticlelist?titleno=318&push=Y",
+						"strval1": "",
+						"hrate": 0.2833
+					},
+					{
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2017/09/07/1504776501712.jpg",
+						"sno": "28_19_718_3_9",
+						"order": 3,
+						"thmw": 1080,
+						"thmh": 306,
+						"contenturl": "comico://storearticlelist?titleno=199&push=Y",
+						"strval1": "",
+						"hrate": 0.2833
+					},
+					{
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2017/08/10/1502332169060.jpg",
+						"sno": "28_19_1423_4_9",
+						"order": 4,
+						"thmw": 1080,
+						"thmh": 306,
+						"contenturl": "comico://storearticlelist?titleno=128&push=Y",
+						"strval1": "",
+						"hrate": 0.2833
+					}
+				],
+				"description": "作品バナー④",
+				"fontcolor": "",
+				"cardno": 28,
+				"backgroundcolor": "",
+				"header": []
+			},
+			{
+				"footer": [],
+				"cardtype": 2,
+				"cardorder": 20,
+				"contents": [
+					{
+						"icon": "",
+						"title": "年下男子に魅せられて",
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2017/11/21/1511241121124.jpg",
+						"sno": "103_20_987_0_2",
+						"order": 0,
+						"thmw": 380,
+						"thmh": 538,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=713&push=Y",
+						"strval1": "年下男子に魅せられて",
+						"hrate": 1.4158
+					},
+					{
+						"icon": "",
+						"title": "妖狐Warning! 妖狐Darling! 妖狐Wedding! 妖狐+LOVE×Kiss!",
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2018/01/30/1517290191588.jpg",
+						"sno": "103_20_988_1_2",
+						"order": 1,
+						"thmw": 380,
+						"thmh": 538,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=1416&push=Y",
+						"strval1": "妖狐Warning! 妖狐Darling! 妖狐Wedding! 妖狐+LOVE×Kiss!",
+						"hrate": 1.4158
+					},
+					{
+						"icon": "",
+						"title": "おじさま侯爵は恋するお年頃",
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2018/04/27/1524822268608.jpg",
+						"sno": "103_20_989_2_2",
+						"order": 2,
+						"thmw": 256,
+						"thmh": 364,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=317&push=Y",
+						"strval1": "おじさま侯爵は恋するお年頃",
+						"hrate": 1.4219
+					},
+					{
+						"icon": "",
+						"title": "時速200kmで逆走",
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2018/02/26/1519631344583.jpg",
+						"sno": "103_20_990_3_2",
+						"order": 3,
+						"thmw": 256,
+						"thmh": 364,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=1615&push=Y",
+						"strval1": "時速200kmで逆走",
+						"hrate": 1.4219
+					},
+					{
+						"icon": "",
+						"title": "暴君ヴァーデルの花嫁 初夜編",
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2018/03/01/1519869111936.jpg",
+						"sno": "103_20_991_4_2",
+						"order": 4,
+						"thmw": 256,
+						"thmh": 364,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=576&push=Y",
+						"strval1": "暴君ヴァーデルの花嫁 初夜編",
+						"hrate": 1.4219
+					}
+				],
+				"description": "熱い展開を見逃すな！",
+				"fontcolor": "",
+				"cardno": 103,
+				"backgroundcolor": "",
+				"option": {
+					"column": 3,
+					"row": 1
+				},
+				"header": [
+					{
+						"text": "",
+						"title": "熱い展開を見逃すな！",
+						"sno": "103_20_H_0_2",
+						"thm": "",
+						"order": 0,
+						"thmw": null,
+						"thmh": null,
+						"contenturl": "",
+						"hrate": 0,
+						"option": {
+							"text": "",
+							"color": ""
+						}
+					}
+				]
+			},
+			{
+				"footer": [],
+				"cardtype": 9,
+				"cardorder": 21,
+				"contents": [
+					{
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2018/04/24/1524554339365.jpg",
+						"sno": "57_21_1772_0_9",
+						"order": 0,
+						"thmw": 1080,
+						"thmh": 306,
+						"contenturl": "comico://storearticlelist?titleno=446&push=Y",
+						"strval1": "",
+						"hrate": 0.2833
+					},
+					{
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2017/10/06/1507286312489.jpg",
+						"sno": "57_21_1708_1_9",
+						"order": 1,
+						"thmw": 1080,
+						"thmh": 306,
+						"contenturl": "comico://storearticlelist?titleno=199&push=Y",
+						"strval1": "",
+						"hrate": 0.2833
+					},
+					{
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2017/10/24/1508828053385.jpg",
+						"sno": "57_21_1583_2_9",
+						"order": 2,
+						"thmw": 1080,
+						"thmh": 306,
+						"contenturl": "comico://storearticlelist?titleno=452&push=Y",
+						"strval1": "",
+						"hrate": 0.2833
+					},
+					{
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2017/12/14/1513243711525.jpg",
+						"sno": "57_21_1541_3_9",
+						"order": 3,
+						"thmw": 1080,
+						"thmh": 306,
+						"contenturl": "comico://storearticlelist?titleno=36&push=Y",
+						"strval1": "",
+						"hrate": 0.2833
+					},
+					{
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2017/09/14/1505387120740.jpg",
+						"sno": "57_21_1518_4_9",
+						"order": 4,
+						"thmw": 1080,
+						"thmh": 306,
+						"contenturl": "comico://storearticlelist?titleno=198&push=Y",
+						"strval1": "",
+						"hrate": 0.2833
+					}
+				],
+				"description": "作品バナー⑤",
+				"fontcolor": "",
+				"cardno": 57,
+				"backgroundcolor": "",
+				"header": []
+			},
+			{
+				"footer": [],
+				"cardtype": 2,
+				"cardorder": 22,
+				"contents": [
+					{
+						"icon": "",
+						"title": "大人の恋の始め方",
+						"thm": "http://comicimg.comico.jp/store/2/title/22704/th_4acf5bd8.png",
+						"sno": "54_22_911_0_2",
+						"order": 0,
+						"thmw": 256,
+						"thmh": 363,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=22704&push=Y",
+						"strval1": "大人の恋の始め方",
+						"hrate": 1.418
+					},
+					{
+						"icon": "",
+						"title": "恋人を演じる一夜",
+						"thm": "http://comicimg.comico.jp/store/2/title/22674/th_4b7875e4.png",
+						"sno": "54_22_275_1_2",
+						"order": 1,
+						"thmw": 256,
+						"thmh": 363,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=22674&push=Y",
+						"strval1": "恋人を演じる一夜",
+						"hrate": 1.418
+					},
+					{
+						"icon": "",
+						"title": "ベッドの中の暴君",
+						"thm": "http://comicimg.comico.jp/store/2/title/22699/th_4add7359.png",
+						"sno": "54_22_910_2_2",
+						"order": 2,
+						"thmw": 256,
+						"thmh": 363,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=22699&push=Y",
+						"strval1": "ベッドの中の暴君",
+						"hrate": 1.418
+					},
+					{
+						"icon": "",
+						"title": "愛を運ぶドレス",
+						"thm": "http://comicimg.comico.jp/store/2/title/22677/th_4b5c46e2.png",
+						"sno": "54_22_272_3_2",
+						"order": 3,
+						"thmw": 256,
+						"thmh": 364,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=22677&push=Y",
+						"strval1": "愛を運ぶドレス",
+						"hrate": 1.4219
+					},
+					{
+						"icon": "",
+						"title": "シンデレラの純潔",
+						"thm": "http://comicimg.comico.jp/store/2/title/22676/th_4b6a5e63.png",
+						"sno": "54_22_274_4_2",
+						"order": 4,
+						"thmw": 256,
+						"thmh": 363,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=22676&push=Y",
+						"strval1": "シンデレラの純潔",
+						"hrate": 1.418
+					}
+				],
+				"description": "ハーレクイン新作登場！",
+				"fontcolor": "",
+				"cardno": 54,
+				"backgroundcolor": "",
+				"option": {
+					"column": 3,
+					"row": 1
+				},
+				"header": [
+					{
+						"text": "",
+						"title": "ハーレクイン新作登場！",
+						"sno": "54_22_H_0_2",
+						"thm": "",
+						"order": 0,
+						"thmw": 256,
+						"thmh": 364,
+						"contenturl": "",
+						"hrate": 0.7033,
+						"option": {
+							"text": "",
+							"color": ""
+						}
+					},
+					{
+						"text": "",
+						"title": "もっと見る",
+						"sno": "54_22_H_1_2",
+						"thm": "",
+						"order": 1,
+						"thmw": null,
+						"thmh": null,
+						"contenturl": "comico://webbrowser?url=http%3A%2F%2Fwww.comico.jp%2Fstore%2Ftitlelist%2F69%3Fapp%3DY",
+						"hrate": 0
+					}
+				]
+			},
+			{
+				"footer": [],
+				"cardtype": 12,
+				"cardorder": 23,
+				"contents": null,
+				"description": "",
+				"fontcolor": "",
+				"cardno": 24,
+				"backgroundcolor": "",
+				"header": []
+			},
+			{
+				"footer": [],
+				"cardtype": 2,
+				"cardorder": 24,
+				"contents": [
+					{
+						"icon": "",
+						"title": "七つの大罪",
+						"thm": "http://comicimg.comico.jp/store/2/title/33121/th_4ea69a6f.png",
+						"sno": "195_24_1803_0_2",
+						"order": 0,
+						"thmw": 244,
+						"thmh": 364,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=33121&push=Y",
+						"strval1": "七つの大罪",
+						"hrate": 1.4918
+					},
+					{
+						"icon": "",
+						"title": "ダイヤのA",
+						"thm": "http://comicimg.comico.jp/store/2/title/33230/th_9c59d288.png",
+						"sno": "195_24_1804_1_2",
+						"order": 1,
+						"thmw": 256,
+						"thmh": 358,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=33230&push=Y",
+						"strval1": "ダイヤのA",
+						"hrate": 1.3984
+					},
+					{
+						"icon": "",
+						"title": "DAYS",
+						"thm": "http://comicimg.comico.jp/store/2/title/35068/th_1f332538.png",
+						"sno": "195_24_1805_2_2",
+						"order": 2,
+						"thmw": 244,
+						"thmh": 364,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=35068&push=Y",
+						"strval1": "DAYS",
+						"hrate": 1.4918
+					},
+					{
+						"icon": "",
+						"title": "亜人ちゃんは語りたい",
+						"thm": "http://comicimg.comico.jp/store/2/title/34889/th_bc3e6b05.png",
+						"sno": "195_24_1806_3_2",
+						"order": 3,
+						"thmw": 256,
+						"thmh": 364,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=34889&push=Y",
+						"strval1": "亜人ちゃんは語りたい",
+						"hrate": 1.4219
+					},
+					{
+						"icon": "",
+						"title": "我間乱～GAMARAN～",
+						"thm": "http://comicimg.comico.jp/store/2/title/33508/th_7a7a3517.png",
+						"sno": "195_24_1807_4_2",
+						"order": 4,
+						"thmw": 244,
+						"thmh": 364,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=33508&push=Y",
+						"strval1": "我間乱～GAMARAN～",
+						"hrate": 1.4918
+					},
+					{
+						"icon": "",
+						"title": "Over Drive",
+						"thm": "http://comicimg.comico.jp/store/2/title/33778/th_b3fcc88a.png",
+						"sno": "195_24_1808_5_2",
+						"order": 5,
+						"thmw": 256,
+						"thmh": 358,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=33778&push=Y",
+						"strval1": "Over Drive",
+						"hrate": 1.3984
+					}
+				],
+				"description": "『七つの大罪』好き必見!! 王道コミック特集",
+				"fontcolor": "",
+				"cardno": 195,
+				"backgroundcolor": "",
+				"option": {
+					"column": 3,
+					"row": 2
+				},
+				"header": [
+					{
+						"text": "",
+						"title": "『七つの大罪』好き必見!! 王道コミック特集",
+						"sno": "195_24_H_0_2",
+						"thm": "",
+						"order": 0,
+						"thmw": null,
+						"thmh": null,
+						"contenturl": "",
+						"hrate": 0,
+						"option": {
+							"text": "",
+							"color": ""
+						}
+					},
+					{
+						"text": "",
+						"title": "もっと見る",
+						"sno": "195_24_H_1_2",
+						"thm": "",
+						"order": 1,
+						"thmw": null,
+						"thmh": null,
+						"contenturl": "comico://webbrowser?url=http%3A%2F%2Fwww.comico.jp%2Fstore%2Ftitlelist%2F95%3Fapp%3DY",
+						"hrate": 0
+					}
+				]
+			},
+			{
+				"footer": [],
+				"cardtype": 2,
+				"cardorder": 25,
+				"contents": [
+					{
+						"icon": "",
+						"title": "I･DK",
+						"thm": "http://comicimg.comico.jp/store/2/title/36963/th_da1994b7.png",
+						"sno": "192_25_1777_0_2",
+						"order": 0,
+						"thmw": 237,
+						"thmh": 364,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=36963&push=Y",
+						"strval1": "I･DK",
+						"hrate": 1.5359
+					},
+					{
+						"icon": "",
+						"title": "ageha",
+						"thm": "http://comicimg.comico.jp/store/2/title/34614/th_627756fe.png",
+						"sno": "192_25_1782_1_2",
+						"order": 1,
+						"thmw": 237,
+						"thmh": 364,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=34614&push=Y",
+						"strval1": "ageha",
+						"hrate": 1.5359
+					},
+					{
+						"icon": "",
+						"title": "キミがスキ 分冊版",
+						"thm": "http://comicimg.comico.jp/store/2/title/487/th_604c50e8.png",
+						"sno": "192_25_1780_2_2",
+						"order": 2,
+						"thmw": 446,
+						"thmh": 684,
+						"subtitle": "Cookie",
+						"contenturl": "comico://storearticlelist?titleno=487&push=Y",
+						"strval1": "キミがスキ 分冊版",
+						"hrate": 1.5336
+					},
+					{
+						"icon": "",
+						"title": "オトメゴコロ 分冊版",
+						"thm": "http://comicimg.comico.jp/store/2/title/987/th_ba4db919.png",
+						"sno": "192_25_1779_3_2",
+						"order": 3,
+						"thmw": 442,
+						"thmh": 684,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=987&push=Y",
+						"strval1": "オトメゴコロ 分冊版",
+						"hrate": 1.5475
+					},
+					{
+						"icon": "",
+						"title": "L･DK",
+						"thm": "http://comicimg.comico.jp/store/2/title/33815/th_69b02b40.png",
+						"sno": "192_25_1778_4_2",
+						"order": 4,
+						"thmw": 237,
+						"thmh": 364,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=33815&push=Y",
+						"strval1": "L･DK",
+						"hrate": 1.5359
+					},
+					{
+						"icon": "",
+						"title": "きみと壁ドン",
+						"thm": "http://comicimg.comico.jp/store/2/title/34583/th_646496c7.png",
+						"sno": "192_25_1781_5_2",
+						"order": 5,
+						"thmw": 237,
+						"thmh": 364,
+						"subtitle": "別冊フレンド",
+						"contenturl": "comico://storearticlelist?titleno=34583&push=Y",
+						"strval1": "きみと壁ドン",
+						"hrate": 1.5359
+					}
+				],
+				"description": "巻配信『メンズライフ』１巻配信記念",
+				"fontcolor": "",
+				"cardno": 192,
+				"backgroundcolor": "",
+				"option": {
+					"column": 3,
+					"row": 1
+				},
+				"header": [
+					{
+						"text": "",
+						"title": "巻配信『メンズライフ』１巻配信記念",
+						"sno": "192_25_H_0_2",
+						"thm": "",
+						"order": 0,
+						"thmw": 256,
+						"thmh": 364,
+						"contenturl": "",
+						"hrate": 0.7033,
+						"option": {
+							"text": "",
+							"color": ""
+						}
+					},
+					{
+						"text": "",
+						"title": "もっと見る",
+						"sno": "192_25_H_1_2",
+						"thm": "",
+						"order": 1,
+						"thmw": null,
+						"thmh": null,
+						"contenturl": "comico://webbrowser?url=http%3A%2F%2Fwww.comico.jp%2Fstore%2Ftitlelist%2F92%3Fapp%3DY",
+						"hrate": 0
+					}
+				]
+			},
+			{
+				"footer": [],
+				"cardtype": 17,
+				"cardorder": 26,
+				"contents": [
+					{
+						"sno": "167_26_1602_0_17",
+						"thm": "",
+						"thmw": null,
+						"contenturl": "",
+						"hrate": 0,
+						"title": "",
+						"order": 0,
+						"items": [
+							{
+								"title": "",
+								"thm": "http://comicimg.comico.jp/homecard/tmb/2018/05/17/1526538682745.jpg",
+								"sno": "167_26_144_0_17",
+								"order": 0,
+								"subtitle": "",
+								"contenturl": "comico://webbrowser?url=http%3A%2F%2Fwww.comico.jp%2Fstore%2Ftitlelist%2F99%3Fapp%3DY",
+								"option": {
+									"url2": "",
+									"text2": ""
+								}
+							},
+							{
+								"title": "",
+								"thm": "http://comicimg.comico.jp/homecard/tmb/2018/05/17/1526538495128.jpg",
+								"sno": "167_26_143_1_17",
+								"order": 1,
+								"subtitle": "",
+								"contenturl": "comico://storearticlelist?titleno=16807&push=Y",
+								"option": {
+									"url2": "",
+									"text2": ""
+								}
+							},
+							{
+								"title": "",
+								"thm": "http://comicimg.comico.jp/homecard/tmb/2018/05/16/1526468140089.jpg",
+								"sno": "167_26_138_2_17",
+								"order": 2,
+								"subtitle": "",
+								"contenturl": "comico://webbrowser?url=http%3A%2F%2Fwww.comico.jp%2Fstore%2Ftitlelist%2F96%3Fapp%3DY",
+								"option": {
+									"url2": "",
+									"text2": ""
+								}
+							},
+							{
+								"title": "",
+								"thm": "http://comicimg.comico.jp/homecard/tmb/2018/05/16/1526468062629.jpg",
+								"sno": "167_26_134_3_17",
+								"order": 3,
+								"subtitle": "",
+								"contenturl": "comico://webbrowser?url=http%3A%2F%2Fwww.comico.jp%2Fstore%2Ftitlelist%2F95%3Fapp%3DY",
+								"option": {
+									"url2": "",
+									"text2": ""
+								}
+							},
+							{
+								"title": "",
+								"thm": "http://comicimg.comico.jp/homecard/tmb/2018/05/14/1526269197843.jpg",
+								"sno": "167_26_142_4_17",
+								"order": 4,
+								"subtitle": "",
+								"contenturl": "comico://webbrowser?url=http%3A%2F%2Fwww.comico.jp%2Fstore%2Ftitlelist%2F93%3Fapp%3DY",
+								"option": {
+									"url2": "",
+									"text2": ""
+								}
+							},
+							{
+								"title": "",
+								"thm": "http://comicimg.comico.jp/homecard/tmb/2018/05/11/1526022988065.jpg",
+								"sno": "167_26_141_5_17",
+								"order": 5,
+								"subtitle": "",
+								"contenturl": "comico://webbrowser?url=http%3A%2F%2Fwww.comico.jp%2Fstore%2Ftitlelist%2F92%3Fapp%3DY",
+								"option": {
+									"url2": "",
+									"text2": ""
+								}
+							}
+						],
+						"thmh": null,
+						"description": "",
+						"subtitle": "",
+						"strval1": "",
+						"option": {
+							"itemheight": 306,
+							"scale": 0.7,
+							"text1": "",
+							"itemwidth": 1080
+						}
+					}
+				],
+				"description": "巻施策：スクリーンショット",
+				"fontcolor": "",
+				"cardno": 167,
+				"backgroundcolor": "",
+				"header": [
+					{
+						"text": "",
+						"title": "巻配信：開催中の特集はこちら！",
+						"sno": "167_26_H_0_17",
+						"thm": "",
+						"order": 0,
+						"thmw": null,
+						"thmh": null,
+						"contenturl": "",
+						"hrate": 0,
+						"option": {
+							"text": "",
+							"color": ""
+						}
+					}
+				]
+			},
+			{
+				"footer": [],
+				"cardtype": 2,
+				"cardorder": 27,
+				"contents": [
+					{
+						"icon": "http://comicimg.comico.jp/homecard/tmb/2017/11/02/1509620496716.jpg",
+						"title": "銀のスプーン",
+						"thm": "http://comicimg.comico.jp/store/2/title/35195/th_16f15fa2.png",
+						"sno": "196_27_1813_0_2",
+						"order": 0,
+						"thmw": 256,
+						"thmh": 364,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=35195&push=Y",
+						"strval1": "銀のスプーン",
+						"hrate": 1.4219
+					},
+					{
+						"icon": "",
+						"title": "おかめ日和",
+						"thm": "http://comicimg.comico.jp/store/2/title/35272/th_fc97020.png",
+						"sno": "196_27_1811_1_2",
+						"order": 1,
+						"thmw": 256,
+						"thmh": 364,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=35272&push=Y",
+						"strval1": "おかめ日和",
+						"hrate": 1.4219
+					},
+					{
+						"icon": "http://comicimg.comico.jp/homecard/tmb/2017/11/02/1509620496716.jpg",
+						"title": "塾セン 分冊版",
+						"thm": "http://comicimg.comico.jp/store/2/title/2027/th_50f0c59d.png",
+						"sno": "196_27_1814_2_2",
+						"order": 2,
+						"thmw": 237,
+						"thmh": 364,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=2027&push=Y",
+						"strval1": "塾セン 分冊版",
+						"hrate": 1.5359
+					},
+					{
+						"icon": "http://comicimg.comico.jp/homecard/tmb/2017/11/02/1509620496716.jpg",
+						"title": "だいすき!!～ゆずの子育て日記～",
+						"thm": "http://comicimg.comico.jp/store/2/title/32810/th_c75cbfeb.png",
+						"sno": "196_27_1812_3_2",
+						"order": 3,
+						"thmw": 252,
+						"thmh": 364,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=32810&push=Y",
+						"strval1": "だいすき!!～ゆずの子育て日記～",
+						"hrate": 1.4444
+					},
+					{
+						"icon": "",
+						"title": "放課後カルテ",
+						"thm": "http://comicimg.comico.jp/store/2/title/35147/th_18fac547.png",
+						"sno": "196_27_1810_4_2",
+						"order": 4,
+						"thmw": 237,
+						"thmh": 364,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=35147&push=Y",
+						"strval1": "放課後カルテ",
+						"hrate": 1.5359
+					},
+					{
+						"icon": "",
+						"title": "イクメン!",
+						"thm": "http://comicimg.comico.jp/store/2/title/33347/th_10981e19.png",
+						"sno": "196_27_1809_5_2",
+						"order": 5,
+						"thmw": 237,
+						"thmh": 364,
+						"subtitle": "デザート",
+						"contenturl": "comico://storearticlelist?titleno=33347&push=Y",
+						"strval1": "イクメン!",
+						"hrate": 1.5359
+					}
+				],
+				"description": "巻配信「講談社　おさなごを愛でる　特集」",
+				"fontcolor": "",
+				"cardno": 196,
+				"backgroundcolor": "",
+				"option": {
+					"column": 3,
+					"row": 1
+				},
+				"header": [
+					{
+						"text": "",
+						"title": "巻配信「講談社　おさなごを愛でる　特集」",
+						"sno": "196_27_H_0_2",
+						"thm": "",
+						"order": 0,
+						"thmw": 256,
+						"thmh": 364,
+						"contenturl": "",
+						"hrate": 0.7033,
+						"option": {
+							"text": "",
+							"color": ""
+						}
+					},
+					{
+						"text": "",
+						"title": "もっと見る",
+						"sno": "196_27_H_1_2",
+						"thm": "",
+						"order": 1,
+						"thmw": null,
+						"thmh": null,
+						"contenturl": "comico://webbrowser?url=http%3A%2F%2Fwww.comico.jp%2Fstore%2Ftitlelist%2F93%3Fapp%3DY",
+						"hrate": 0
+					}
+				]
+			},
+			{
+				"footer": [],
+				"cardtype": 2,
+				"cardorder": 28,
+				"contents": [
+					{
+						"icon": "",
+						"title": "赤い花 白い花(分冊版)",
+						"thm": "http://comicimg.comico.jp/store/2/title/23506/th_188732da.png",
+						"sno": "164_28_1586_0_2",
+						"order": 0,
+						"thmw": 256,
+						"thmh": 363,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=23506&push=Y",
+						"strval1": "赤い花 白い花(分冊版)",
+						"hrate": 1.418
+					},
+					{
+						"icon": "",
+						"title": "どんぐりたちの涙～放課後子ども教室から～(分冊版)",
+						"thm": "http://comicimg.comico.jp/store/2/title/24878/th_aa2ad65a.png",
+						"sno": "164_28_1588_1_2",
+						"order": 1,
+						"thmw": 256,
+						"thmh": 363,
+						"subtitle": "&#12473;&#12488;&#12540;&#12522;&#12540;&#12394;&#22899;&#12383;&#12385;",
+						"contenturl": "comico://storearticlelist?titleno=24878&push=Y",
+						"strval1": "どんぐりたちの涙～放課後子ども教室から～(分冊版)",
+						"hrate": 1.418
+					},
+					{
+						"icon": "",
+						"title": "花を咲かそう(分冊版)",
+						"thm": "http://comicimg.comico.jp/store/2/title/23498/th_18bf90de.png",
+						"sno": "164_28_1587_2_2",
+						"order": 2,
+						"thmw": 256,
+						"thmh": 363,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=23498&push=Y",
+						"strval1": "花を咲かそう(分冊版)",
+						"hrate": 1.418
+					},
+					{
+						"icon": "",
+						"title": "ブスが7億円もらったら～最下層のクズ～(分冊版)",
+						"thm": "http://comicimg.comico.jp/store/2/title/23841/th_58cfe0b8.png",
+						"sno": "164_28_1584_3_2",
+						"order": 3,
+						"thmw": 256,
+						"thmh": 363,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=23841&push=Y",
+						"strval1": "ブスが7億円もらったら～最下層のクズ～(分冊版)",
+						"hrate": 1.418
+					},
+					{
+						"icon": "",
+						"title": "母を乞う人～幸せのJUMON～(分冊版)",
+						"thm": "http://comicimg.comico.jp/store/2/title/23537/th_a7ddba7.png",
+						"sno": "164_28_1585_4_2",
+						"order": 4,
+						"thmw": 256,
+						"thmh": 363,
+						"subtitle": "",
+						"contenturl": "comico://storearticlelist?titleno=23537&push=Y",
+						"strval1": "母を乞う人～幸せのJUMON～(分冊版)",
+						"hrate": 1.418
+					}
+				],
+				"description": "ブス！不倫！注目作特集　７冊無料！",
+				"fontcolor": "",
+				"cardno": 164,
+				"backgroundcolor": "",
+				"option": {
+					"column": 3,
+					"row": 1
+				},
+				"header": [
+					{
+						"text": "",
+						"title": "ブス！不倫！注目作特集　７冊無料！",
+						"sno": "164_28_H_0_2",
+						"thm": "",
+						"order": 0,
+						"thmw": 256,
+						"thmh": 364,
+						"contenturl": "",
+						"hrate": 0.7033,
+						"option": {
+							"text": "",
+							"color": ""
+						}
+					}
+				]
+			}
+		]
+	}
+}

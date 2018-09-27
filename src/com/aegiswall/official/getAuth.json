@@ -1,0 +1,52 @@
+{
+	"result": 200,
+	"data": {
+		"tno": 29370,
+		"ano": 67,
+		"pinfo": {
+			"ano": 67,
+			"prior": "N",
+			"pno": 1,
+			"fflg": "Y",
+			"pointRentalFlg": "N",
+			"displayAdFlg": "N",
+			"pc": 0,
+			"rentalPrice": 0,
+			"eflg": "N",
+			"ename": null,
+			"epc": null,
+			"eventRentalPrice": null,
+			"esdt": null,
+			"eedt": null,
+			"fdflg": "N",
+			"fdenddt": null
+		},
+		"ainfo": {
+			"ano": 67,
+			"pflg": "N",
+			"kflg": "N",
+			"mkflg": "N",
+			"aed": null
+		},
+		"kinfo": {
+			"kno": null,
+			"maxkcnt": null,
+			"kcnt": null,
+			"ekcnt": null,
+			"tleft": null,
+			"rtime": null,
+			"atime": null,
+			"mkcnt": null
+		},
+		"khist": {
+			"kused": "N",
+			"kuseddt": null
+		},
+		"oneflg": "Y",
+		"viewerUrl": "http://api.comico.jp/novel/viewer/index.nhn?fv=N&gd=N&gdcnt=0&pay=N",
+		"contentUrl": "zbGZHI8E/C4yUBjYQp1EHgRJ9MBfvtgTnYVd/XHHPAvypd5ejoHV1yUKA5l0N0rEUGSByNnH9/533T7XTnfIQQ==",
+		"bannerInfo": null,
+		"discountBannerInfo": null,
+		"adIgnoreFlg": null
+	}
+}

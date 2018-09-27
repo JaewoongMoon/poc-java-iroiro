@@ -1,0 +1,1573 @@
+{
+	"result": 200,
+	"data": {
+		"cards": [
+			{
+				"footer": [],
+				"cardtype": 1,
+				"cardorder": 0,
+				"contents": [
+					{
+						"thm": "http://images.comico.jp/up/home/26110_02_apptop.jpg",
+						"sno": "78_0_6844_0_1",
+						"order": 0,
+						"thmw": 750,
+						"thmh": 422,
+						"contenturl": "comico://articlelist?titleno=26110&push=Y",
+						"strval1": "",
+						"hrate": 0.5627
+					},
+					{
+						"thm": "http://images.comico.jp/up/home/24136_apptop.jpg",
+						"sno": "78_0_368_1_1",
+						"order": 1,
+						"thmw": 750,
+						"thmh": 422,
+						"contenturl": "comico://articlelist?titleno=24136&push=Y",
+						"strval1": "",
+						"hrate": 0.5627
+					},
+					{
+						"thm": "http://images.comico.jp/up/home/23087_apptop.jpg",
+						"sno": "78_0_6710_2_1",
+						"order": 2,
+						"thmw": 750,
+						"thmh": 422,
+						"contenturl": "comico://articlelist?titleno=23087&push=Y",
+						"strval1": "",
+						"hrate": 0.5627
+					},
+					{
+						"thm": "http://images.comico.jp/up/home/rotation_banner_23796.jpg",
+						"sno": "78_0_6711_3_1",
+						"order": 3,
+						"thmw": 750,
+						"thmh": 422,
+						"contenturl": "comico://articlelist?titleno=23796&push=Y",
+						"strval1": "",
+						"hrate": 0.5627
+					},
+					{
+						"thm": "http://images.comico.jp/up/home/22788_apptop.jpg",
+						"sno": "78_0_6003_4_1",
+						"order": 4,
+						"thmw": 750,
+						"thmh": 422,
+						"contenturl": "comico://articlelist?titleno=22788&push=Y",
+						"strval1": "",
+						"hrate": 0.5627
+					}
+				],
+				"description": "ローテーションバナー",
+				"fontcolor": "",
+				"cardno": 78,
+				"backgroundcolor": "",
+				"header": [],
+				"mode": 0
+			},
+			{
+				"footer": [],
+				"cardtype": 22,
+				"cardorder": 1,
+				"contents": [
+					{
+						"title": "受け取りBOX",
+						"thm": "http://images.comico.jp/app/home/icon/box.png",
+						"sno": "353_1_6082_0_22",
+						"order": 0,
+						"thmw": 144,
+						"thmh": 144,
+						"contenturl": "comico://postbox",
+						"strval1": "受け取りBOX",
+						"hrate": 1
+					},
+					{
+						"title": "ランキング",
+						"thm": "http://images.comico.jp/app/home/icon/rank.png",
+						"sno": "353_1_6083_1_22",
+						"order": 1,
+						"thmw": 144,
+						"thmh": 144,
+						"contenturl": "comico://rankinglist",
+						"strval1": "ランキング",
+						"hrate": 1
+					},
+					{
+						"title": "イベント",
+						"thm": "http://images.comico.jp/app/home/icon/event.png",
+						"sno": "353_1_6086_2_22",
+						"order": 2,
+						"thmw": 144,
+						"thmh": 144,
+						"contenturl": "comico://eventlist?push=Y",
+						"strval1": "イベント",
+						"hrate": 1
+					},
+					{
+						"title": "コインゲット",
+						"thm": "http://images.comico.jp/app/home/icon/coin.png",
+						"sno": "353_1_6084_3_22",
+						"order": 3,
+						"thmw": 144,
+						"thmh": 144,
+						"contenturl": "comico://adplatform",
+						"strval1": "コインゲット",
+						"hrate": 1
+					}
+				],
+				"description": "",
+				"fontcolor": "",
+				"cardno": 353,
+				"backgroundcolor": "",
+				"header": [],
+				"mode": 0
+			},
+			{
+				"footer": [],
+				"cardtype": 2,
+				"cardorder": 2,
+				"contents": [
+					{
+						"icon": "",
+						"title": "ReLIFE リライフ",
+						"thm": "http://comicimg.comico.jp/tmb/2/15a2050_1442224459345.jpg",
+						"sno": "209_2_3089_0_2",
+						"order": 0,
+						"thmw": 300,
+						"thmh": 300,
+						"subtitle": "25話まで完全無料♪",
+						"contenturl": "comico://article?titleno=2&articleno=1&push=Y&stack=1",
+						"strval1": "ReLIFE リライフ",
+						"hrate": 1
+					},
+					{
+						"icon": "",
+						"title": "キミのとなり。～年の差恋愛の事情～",
+						"thm": "http://comicimg.comico.jp/tmb/24776/616b6_1522934169103.jpg",
+						"sno": "209_2_6709_1_2",
+						"order": 1,
+						"thmw": 275,
+						"thmh": 275,
+						"subtitle": "不動のPLUS No.1",
+						"contenturl": "comico://article?titleno=24776&articleno=2&push=Y&stack=1",
+						"strval1": "キミのとなり。～年の差恋愛の事情～",
+						"hrate": 1
+					},
+					{
+						"icon": "",
+						"title": "カカオ79%",
+						"thm": "http://comicimg.comico.jp/tmb/8166/1fc373e_1509017426815.jpg",
+						"sno": "209_2_3119_2_2",
+						"order": 2,
+						"thmw": 275,
+						"thmh": 275,
+						"subtitle": "24話まで完全無料♪",
+						"contenturl": "comico://article?titleno=8166&articleno=1&push=Y&stack=1",
+						"strval1": "カカオ79%",
+						"hrate": 1
+					},
+					{
+						"icon": "",
+						"title": "ミイラの飼い方",
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2017/09/21/1505974176653.jpg",
+						"sno": "209_2_3736_3_2",
+						"order": 3,
+						"thmw": 275,
+						"thmh": 275,
+						"subtitle": "ミイラが我が家にやって来た！",
+						"contenturl": "comico://article?titleno=3410&articleno=1&push=Y&stack=1",
+						"strval1": "ミイラの飼い方",
+						"hrate": 1
+					},
+					{
+						"icon": "",
+						"title": "死神のリハーサル",
+						"thm": "http://comicimg.comico.jp/tmb/19048/8032010b_1522984438711.jpg",
+						"sno": "209_2_4697_4_2",
+						"order": 4,
+						"thmw": 360,
+						"thmh": 360,
+						"subtitle": "1日1回まるまるリハーサル",
+						"contenturl": "comico://article?titleno=19048&articleno=1&push=Y&stack=1",
+						"strval1": "死神のリハーサル",
+						"hrate": 1
+					},
+					{
+						"icon": "",
+						"title": "JADE",
+						"thm": "http://comicimg.comico.jp/tmb/20091/23049ad_1518746742676.jpg",
+						"sno": "209_2_4352_5_2",
+						"order": 5,
+						"thmw": 360,
+						"thmh": 360,
+						"subtitle": "女刑事と死神の運命的なバトル",
+						"contenturl": "comico://article?titleno=20091&articleno=1&push=Y&stack=1",
+						"strval1": "JADE",
+						"hrate": 1
+					}
+				],
+				"description": "定番作品",
+				"fontcolor": "",
+				"cardno": 209,
+				"backgroundcolor": "",
+				"option": {
+					"column": 3,
+					"row": 1
+				},
+				"header": [
+					{
+						"text": "",
+						"title": "まずはコレ！comicoの人気作品",
+						"sno": "209_2_H_0_2",
+						"thm": "",
+						"order": 0,
+						"thmw": null,
+						"thmh": null,
+						"contenturl": "",
+						"hrate": 0,
+						"option": {
+							"text": "",
+							"color": ""
+						}
+					}
+				],
+				"mode": 0
+			},
+			{
+				"footer": [],
+				"cardtype": 2,
+				"cardorder": 3,
+				"contents": [
+					{
+						"icon": "",
+						"title": "傷だらけの悪魔",
+						"thm": "http://comicimg.comico.jp/tmb/1300/a92a47b9_1525155649366.jpg",
+						"sno": "339_3_6938_0_2",
+						"order": 0,
+						"thmw": 275,
+						"thmh": 275,
+						"subtitle": "いじめに苦しむ日々",
+						"contenturl": "comico://articlelist?titleno=1300&push=Y",
+						"strval1": "傷だらけの悪魔",
+						"hrate": 1
+					},
+					{
+						"icon": "",
+						"title": "非モテの王子様",
+						"thm": "http://comicimg.comico.jp/tmb/23084/32a2809b_1512543918599.jpg",
+						"sno": "339_3_6650_1_2",
+						"order": 1,
+						"thmw": 275,
+						"thmh": 275,
+						"subtitle": "男性ランキング1位！",
+						"contenturl": "comico://articlelist?titleno=23084&push=Y",
+						"strval1": "非モテの王子様",
+						"hrate": 1
+					},
+					{
+						"icon": "",
+						"title": "私を笑わないで",
+						"thm": "http://comicimg.comico.jp/tmb/23085/16b2212b_1512544003581.jpg",
+						"sno": "339_3_6707_2_2",
+						"order": 2,
+						"thmw": 275,
+						"thmh": 275,
+						"subtitle": "体重に振り回される女",
+						"contenturl": "comico://articlelist?titleno=23085&push=Y",
+						"strval1": "私を笑わないで",
+						"hrate": 1
+					},
+					{
+						"icon": "",
+						"title": "とりかえっ婚",
+						"thm": "http://comicimg.comico.jp/plushomecard/tmb/2018/04/11/1523436513318.jpg",
+						"sno": "339_3_6706_3_2",
+						"order": 3,
+						"thmw": 275,
+						"thmh": 275,
+						"subtitle": "好きじゃない結婚生活",
+						"contenturl": "comico://articlelist?titleno=24350&push=Y",
+						"strval1": "とりかえっ婚",
+						"hrate": 1
+					},
+					{
+						"icon": "",
+						"title": "花に乞え",
+						"thm": "http://images.comico.jp/up/p01/838-2_kv360x360.jpg",
+						"sno": "339_3_6708_4_2",
+						"order": 4,
+						"thmw": 275,
+						"thmh": 275,
+						"subtitle": "美麗な世界観とストーリー",
+						"contenturl": "comico://articlelist?titleno=24773&push=Y",
+						"strval1": "花に乞え",
+						"hrate": 1
+					},
+					{
+						"icon": "",
+						"title": "俺のメンタルは限界です",
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2018/01/25/1516845038438.jpg",
+						"sno": "339_3_6549_5_2",
+						"order": 5,
+						"thmw": 275,
+						"thmh": 275,
+						"subtitle": "ツンデレ女との恋愛話",
+						"contenturl": "comico://articlelist?titleno=20099&push=Y",
+						"strval1": "俺のメンタルは限界です",
+						"hrate": 1
+					}
+				],
+				"description": "広告対象作品",
+				"fontcolor": "4A110F",
+				"cardno": 339,
+				"backgroundcolor": "F4DD38",
+				"option": {
+					"column": 3,
+					"row": 1
+				},
+				"header": [
+					{
+						"text": "",
+						"title": "このマンガが熱い!! 今読むべきマンガ★",
+						"sno": "339_3_H_0_2",
+						"thm": "",
+						"order": 0,
+						"thmw": null,
+						"thmh": null,
+						"contenturl": "",
+						"hrate": 0,
+						"option": {
+							"text": "イチオシ",
+							"color": "4A110F"
+						}
+					}
+				],
+				"mode": 0
+			},
+			{
+				"footer": [],
+				"cardtype": 8,
+				"cardorder": 4,
+				"contents": [
+					{
+						"title": "ReLIFE",
+						"sno": "2_4_6_0_8",
+						"thm": "http://comicimg.comico.jp/tmb/2/15a2050_1442224459345.jpg",
+						"order": 0,
+						"description": "1319432",
+						"thmw": 275,
+						"thmh": 275,
+						"subtitle": "夜宵草",
+						"contenturl": "comico://articlelist?titleno=2&cf=N&push=Y",
+						"hrate": 1
+					},
+					{
+						"title": "私を笑わないで",
+						"sno": "2_4_6_1_8",
+						"thm": "http://comicimg.comico.jp/tmb/23085/16b2212b_1512544003581.jpg",
+						"order": 1,
+						"description": "1238912",
+						"thmw": 275,
+						"thmh": 275,
+						"subtitle": "くるみ亮",
+						"contenturl": "comico://articlelist?titleno=23085&cf=N&push=Y",
+						"hrate": 1
+					},
+					{
+						"title": "傷だらけの悪魔",
+						"sno": "2_4_6_2_8",
+						"thm": "http://comicimg.comico.jp/tmb/1300/a92a47b9_1525155649366.jpg",
+						"order": 2,
+						"description": "1157368",
+						"thmw": 275,
+						"thmh": 275,
+						"subtitle": "澄川ボルボックス",
+						"contenturl": "comico://articlelist?titleno=1300&cf=N&push=Y",
+						"hrate": 1
+					},
+					{
+						"title": "整形ゲーム",
+						"sno": "2_4_6_3_8",
+						"thm": "http://comicimg.comico.jp/tmb/24307/11f667_1526376235505.jpg",
+						"order": 3,
+						"description": "1154544",
+						"thmw": 275,
+						"thmh": 275,
+						"subtitle": "金丘",
+						"contenturl": "comico://articlelist?titleno=24307&cf=N&push=Y",
+						"hrate": 1
+					},
+					{
+						"title": "皇帝の一人娘",
+						"sno": "2_4_6_4_8",
+						"thm": "http://comicimg.comico.jp/tmb/22327/23953dd7_1518749649193.jpg",
+						"order": 4,
+						"description": "1139384",
+						"thmw": 275,
+						"thmh": 275,
+						"subtitle": "漫画：RINO 原作：YUNSUL",
+						"contenturl": "comico://articlelist?titleno=22327&cf=N&push=Y",
+						"hrate": 1
+					},
+					{
+						"title": "非モテの王子様",
+						"sno": "2_4_6_5_8",
+						"thm": "http://comicimg.comico.jp/tmb/23084/32a2809b_1512543918599.jpg",
+						"order": 5,
+						"description": "1077638",
+						"thmw": 275,
+						"thmh": 275,
+						"subtitle": "安堂さわの",
+						"contenturl": "comico://articlelist?titleno=23084&cf=N&push=Y",
+						"hrate": 1
+					},
+					{
+						"title": "放課後、ラブホで、先生と。",
+						"sno": "2_4_6_6_8",
+						"thm": "http://comicimg.comico.jp/tmb/24180/cdf047ef_1526376151837.jpg",
+						"order": 6,
+						"description": "968638",
+						"thmw": 275,
+						"thmh": 275,
+						"subtitle": "うつぎゆあ・uroco",
+						"contenturl": "comico://articlelist?titleno=24180&cf=N&push=Y",
+						"hrate": 1
+					},
+					{
+						"title": "ミイラの飼い方",
+						"sno": "2_4_6_7_8",
+						"thm": "http://comicimg.comico.jp/tmb/3410/ed8a6937_1443087726084.jpg",
+						"order": 7,
+						"description": "910509",
+						"thmw": 275,
+						"thmh": 275,
+						"subtitle": "空木かける",
+						"contenturl": "comico://articlelist?titleno=3410&cf=N&push=Y",
+						"hrate": 1
+					},
+					{
+						"title": "カカオ79%",
+						"sno": "2_4_6_8_8",
+						"thm": "http://comicimg.comico.jp/tmb/8166/1fc373e_1518691940216.jpg",
+						"order": 8,
+						"description": "858736",
+						"thmw": 275,
+						"thmh": 275,
+						"subtitle": "蒼井海",
+						"contenturl": "comico://articlelist?titleno=8166&cf=N&push=Y",
+						"hrate": 1
+					},
+					{
+						"title": "異世界の皇妃",
+						"sno": "2_4_6_9_8",
+						"thm": "http://comicimg.comico.jp/tmb/21267/a8d49a81_1518749361997.jpg",
+						"order": 9,
+						"description": "609848",
+						"thmw": 275,
+						"thmh": 275,
+						"subtitle": "HASH / VISCACHA",
+						"contenturl": "comico://articlelist?titleno=21267&cf=N&push=Y",
+						"hrate": 1
+					}
+				],
+				"description": "公式マンガ応援ランキング",
+				"fontcolor": "",
+				"cardno": 2,
+				"backgroundcolor": "",
+				"header": [
+					{
+						"text": "",
+						"title": "公式マンガ応援ランキング",
+						"sno": "2_4_H_0_8",
+						"thm": "",
+						"order": 0,
+						"thmw": null,
+						"thmh": null,
+						"contenturl": "",
+						"hrate": 0,
+						"option": {
+							"text": "",
+							"color": ""
+						}
+					},
+					{
+						"text": "",
+						"title": "もっと見る",
+						"sno": "2_4_H_1_8",
+						"thm": "",
+						"order": 1,
+						"thmw": null,
+						"thmh": null,
+						"contenturl": "comico://rankinglist?push=Y",
+						"hrate": 0
+					}
+				],
+				"mode": 0
+			},
+			{
+				"footer": [],
+				"cardtype": 2,
+				"cardorder": 5,
+				"contents": [
+					{
+						"icon": "",
+						"title": "死神のリハーサル",
+						"thm": "http://comicimg.comico.jp/tmb/19048/8032010b_1522984438711.jpg",
+						"sno": "69_5_527_0_2",
+						"order": 0,
+						"thmw": 360,
+						"thmh": 360,
+						"subtitle": "1日1回まるまるリハーサル",
+						"contenturl": "comico://articlelist?titleno=19048&push=Y",
+						"strval1": "死神のリハーサル",
+						"hrate": 1
+					},
+					{
+						"icon": "",
+						"title": "復讐の赤線",
+						"thm": "http://comicimg.comico.jp/tmb/23277/f11d39c2_1514271072357.jpg",
+						"sno": "69_5_1171_1_2",
+						"order": 1,
+						"thmw": 360,
+						"thmh": 360,
+						"subtitle": "もう怖いものなんてない",
+						"contenturl": "comico://articlelist?titleno=23277&push=Y",
+						"strval1": "復讐の赤線",
+						"hrate": 1
+					},
+					{
+						"icon": "",
+						"title": "15歳、今日から同棲はじめます。",
+						"thm": "http://comicimg.comico.jp/tmb/24227/182ad1f3_1523492472332.jpg",
+						"sno": "69_5_448_2_2",
+						"order": 2,
+						"thmw": 360,
+						"thmh": 360,
+						"subtitle": "友達で終わるつもりだった",
+						"contenturl": "comico://articlelist?titleno=24227&push=Y",
+						"strval1": "15歳、今日から同棲はじめます。",
+						"hrate": 1
+					},
+					{
+						"icon": "",
+						"title": "復讐は知らないうちに",
+						"thm": "http://comicimg.comico.jp/homecard/tmb/2017/09/26/1506390838611.jpg",
+						"sno": "69_5_217_3_2",
+						"order": 3,
+						"thmw": 360,
+						"thmh": 360,
+						"subtitle": "百倍返しのため静かに布石を打つ",
+						"contenturl": "comico://articlelist?titleno=20087&push=Y",
+						"strval1": "復讐は知らないうちに",
+						"hrate": 1
+					},
+					{
+						"icon": "",
+						"title": "佐藤さんと。",
+						"thm": "http://comicimg.comico.jp/tmb/20210/bc4f11_1488798437846.jpg",
+						"sno": "69_5_1474_4_2",
+						"order": 4,
+						"thmw": 360,
+						"thmh": 360,
+						"subtitle": "賑やかな高校生たちの日常",
+						"contenturl": "comico://articlelist?titleno=20210&push=Y",
+						"strval1": "佐藤さんと。",
+						"hrate": 1
+					},
+					{
+						"icon": "",
+						"title": "まじめだけど、したいんです！",
+						"thm": "http://comicimg.comico.jp/tmb/24302/14fe1af_1523503210983.jpg",
+						"sno": "69_5_278_5_2",
+						"order": 5,
+						"thmw": 360,
+						"thmh": 360,
+						"subtitle": "理性が飛んだら…？",
+						"contenturl": "comico://articlelist?titleno=24302&push=Y",
+						"strval1": "まじめだけど、したいんです！",
+						"hrate": 1
+					}
+				],
+				"description": "PLUSでも人気の作品",
+				"fontcolor": "",
+				"cardno": 69,
+				"backgroundcolor": "",
+				"option": {
+					"column": 3,
+					"row": 1
+				},
+				"header": [
+					{
+						"text": "",
+						"title": "人気急上昇!!",
+						"sno": "69_5_H_0_2",
+						"thm": "",
+						"order": 0,
+						"thmw": null,
+						"thmh": null,
+						"contenturl": "",
+						"hrate": 0,
+						"option": {
+							"text": "",
+							"color": ""
+						}
+					}
+				],
+				"mode": 0
+			},
+			{
+				"footer": [],
+				"cardtype": 4,
+				"cardorder": 6,
+				"contents": [
+					{
+						"thm": "http://images.comico.jp/up/bnr/3410_homecard_171018.jpg",
+						"sno": "119_6_5987_0_4",
+						"imgadtag": "",
+						"order": 0,
+						"thmw": 750,
+						"thmh": 600,
+						"admobtaga": "",
+						"contenturl": "comico://articlelist?titleno=3410&push=Y",
+						"hrate": 0.8,
+						"admobtagi": ""
+					}
+				],
+				"description": "ホームカード２",
+				"fontcolor": "",
+				"cardno": 119,
+				"backgroundcolor": "",
+				"header": [],
+				"mode": 0
+			},
+			{
+				"footer": [],
+				"cardtype": 8,
+				"cardorder": 7,
+				"contents": [
+					{
+						"title": "蜜色オフィス",
+						"sno": "238_7_3573_0_8",
+						"thm": "http://images.comico.jp/up/r02/29132_kv275x275.jpg",
+						"order": 0,
+						"description": "63915",
+						"thmw": 275,
+						"thmh": 275,
+						"subtitle": "pinori/スターツ出版",
+						"contenturl": "comico://novelarticlelist?titleno=29132&cf=N&push=Y",
+						"hrate": 1
+					},
+					{
+						"title": "そのボイス、有料ですか？",
+						"sno": "238_7_3573_1_8",
+						"thm": "http://images.comico.jp/up/r02/4102_kv275x275.jpg",
+						"order": 1,
+						"description": "45143",
+						"thmw": 275,
+						"thmh": 275,
+						"subtitle": "さなだはつね",
+						"contenturl": "comico://novelarticlelist?titleno=4102&cf=N&push=Y",
+						"hrate": 1
+					},
+					{
+						"title": "鬼神課長は甘さでできている。",
+						"sno": "238_7_3573_2_8",
+						"thm": "http://images.comico.jp/up/r02/26882_kv275x275.jpg",
+						"order": 2,
+						"description": "43641",
+						"thmw": 275,
+						"thmh": 275,
+						"subtitle": "大松雪草",
+						"contenturl": "comico://novelarticlelist?titleno=26882&cf=N&push=Y",
+						"hrate": 1
+					},
+					{
+						"title": "異世界の皇妃",
+						"sno": "238_7_3573_3_8",
+						"thm": "http://images.comico.jp/up/r02/27926_kv275x275.jpg",
+						"order": 3,
+						"description": "31415",
+						"thmw": 275,
+						"thmh": 275,
+						"subtitle": "著：VISCACHA 挿絵：HASH",
+						"contenturl": "comico://novelarticlelist?titleno=27926&cf=N&push=Y",
+						"hrate": 1
+					},
+					{
+						"title": "天才クソ野郎の事件簿",
+						"sno": "238_7_3573_4_8",
+						"thm": "http://images.comico.jp/up/r02/1210_kv275x275.jpg",
+						"order": 4,
+						"description": "30038",
+						"thmw": 275,
+						"thmh": 275,
+						"subtitle": "つばこ",
+						"contenturl": "comico://novelarticlelist?titleno=1210&cf=N&push=Y",
+						"hrate": 1
+					},
+					{
+						"title": "無口な彼が残業する理由",
+						"sno": "238_7_3573_5_8",
+						"thm": "http://images.comico.jp/up/r02/29135_kv275x275.jpg",
+						"order": 5,
+						"description": "29545",
+						"thmw": 275,
+						"thmh": 275,
+						"subtitle": "坂井志緒/スターツ出版",
+						"contenturl": "comico://novelarticlelist?titleno=29135&cf=N&push=Y",
+						"hrate": 1
+					},
+					{
+						"title": "年上男子と腹ペコ女子",
+						"sno": "238_7_3573_6_8",
+						"thm": "http://images.comico.jp/up/r02/25073_kv275x275.jpg",
+						"order": 6,
+						"description": "25442",
+						"thmw": 275,
+						"thmh": 275,
+						"subtitle": "景佳",
+						"contenturl": "comico://novelarticlelist?titleno=25073&cf=N&push=Y",
+						"hrate": 1
+					},
+					{
+						"title": "女体化した僕を騎士様達がねらってます",
+						"sno": "238_7_3573_7_8",
+						"thm": "http://images.comico.jp/up/r02/29370_kv275x275.jpg",
+						"order": 7,
+						"description": "24237",
+						"thmw": 275,
+						"thmh": 275,
+						"subtitle": "著：祈みさき 絵：安治ぽん太郎",
+						"contenturl": "comico://novelarticlelist?titleno=29370&cf=N&push=Y",
+						"hrate": 1
+					},
+					{
+						"title": "溺愛カンケイ！",
+						"sno": "238_7_3573_8_8",
+						"thm": "http://images.comico.jp/up/r02/29134_kv275x275.jpg",
+						"order": 8,
+						"description": "19891",
+						"thmw": 275,
+						"thmh": 275,
+						"subtitle": "松本ユミ/スターツ出版",
+						"contenturl": "comico://novelarticlelist?titleno=29134&cf=N&push=Y",
+						"hrate": 1
+					},
+					{
+						"title": "涙が恋に変わるまで",
+						"sno": "238_7_3573_9_8",
+						"thm": "http://images.comico.jp/up/r02/28029_kv275x275.jpg",
+						"order": 9,
+						"description": "16681",
+						"thmw": 275,
+						"thmh": 275,
+						"subtitle": "朝貴",
+						"contenturl": "comico://novelarticlelist?titleno=28029&cf=N&push=Y",
+						"hrate": 1
+					}
+				],
+				"description": "公式ノベル応援ランキング",
+				"fontcolor": "",
+				"cardno": 238,
+				"backgroundcolor": "",
+				"header": [
+					{
+						"text": "",
+						"title": "公式ノベル応援ランキング",
+						"sno": "238_7_H_0_8",
+						"thm": "",
+						"order": 0,
+						"thmw": null,
+						"thmh": null,
+						"contenturl": "",
+						"hrate": 0,
+						"option": {
+							"text": "",
+							"color": ""
+						}
+					},
+					{
+						"text": "",
+						"title": "もっと見る",
+						"sno": "238_7_H_1_8",
+						"thm": "",
+						"order": 1,
+						"thmw": null,
+						"thmh": null,
+						"contenturl": "comico://novelranking?push=Y",
+						"hrate": 0
+					}
+				],
+				"mode": 0
+			},
+			{
+				"footer": [],
+				"cardtype": 4,
+				"cardorder": 8,
+				"contents": [
+					{
+						"thm": "http://images.comico.jp/up/bnr/comico_help.jpg",
+						"sno": "123_8_4961_0_4",
+						"imgadtag": "",
+						"order": 0,
+						"thmw": 640,
+						"thmh": 142,
+						"admobtaga": "",
+						"contenturl": "comico://help?push=Y",
+						"hrate": 0.2219,
+						"admobtagi": ""
+					}
+				],
+				"description": "ヘルプ",
+				"fontcolor": "",
+				"cardno": 123,
+				"backgroundcolor": "",
+				"header": [],
+				"mode": 0
+			},
+			{
+				"footer": [],
+				"cardtype": 11,
+				"cardorder": 9,
+				"contents": [
+					{
+						"order": 1,
+						"items": [
+							{
+								"title": "皇帝の一人娘",
+								"sno": "5_9_9D_0_11",
+								"thm": "http://comicimg.comico.jp/tmb/22327/23953dd7_1518749649193.jpg",
+								"order": 0,
+								"description": "",
+								"thmw": 275,
+								"thmh": 275,
+								"subtitle": "漫画：RINO 原作：YUNSUL",
+								"contenturl": "comico://articlelist?titleno=22327&cf=N&push=Y",
+								"hrate": 1
+							},
+							{
+								"title": "私を笑わないで",
+								"sno": "5_9_9D_1_11",
+								"thm": "http://comicimg.comico.jp/tmb/23085/16b2212b_1512544003581.jpg",
+								"order": 1,
+								"description": "",
+								"thmw": 275,
+								"thmh": 275,
+								"subtitle": "くるみ亮",
+								"contenturl": "comico://articlelist?titleno=23085&cf=N&push=Y",
+								"hrate": 1
+							},
+							{
+								"title": "整形ゲーム",
+								"sno": "5_9_9D_2_11",
+								"thm": "http://comicimg.comico.jp/tmb/24307/11f667_1526376235505.jpg",
+								"order": 2,
+								"description": "",
+								"thmw": 275,
+								"thmh": 275,
+								"subtitle": "金丘",
+								"contenturl": "comico://articlelist?titleno=24307&cf=N&push=Y",
+								"hrate": 1
+							},
+							{
+								"title": "傷だらけの悪魔",
+								"sno": "5_9_9D_3_11",
+								"thm": "http://comicimg.comico.jp/tmb/1300/a92a47b9_1525155649366.jpg",
+								"order": 3,
+								"description": "",
+								"thmw": 275,
+								"thmh": 275,
+								"subtitle": "澄川ボルボックス",
+								"contenturl": "comico://articlelist?titleno=1300&cf=N&push=Y",
+								"hrate": 1
+							},
+							{
+								"title": "異世界の皇妃",
+								"sno": "5_9_9D_4_11",
+								"thm": "http://comicimg.comico.jp/tmb/21267/a8d49a81_1518749361997.jpg",
+								"order": 4,
+								"description": "",
+								"thmw": 275,
+								"thmh": 275,
+								"subtitle": "HASH / VISCACHA",
+								"contenturl": "comico://articlelist?titleno=21267&cf=N&push=Y",
+								"hrate": 1
+							},
+							{
+								"title": "ニンゲンですが魔王に嫁ぐことになりました",
+								"sno": "5_9_9D_5_11",
+								"thm": "http://comicimg.comico.jp/tmb/23842/39dcb9ac_1520844557300.jpg",
+								"order": 5,
+								"description": "",
+								"thmw": 275,
+								"thmh": 275,
+								"subtitle": "原作 イ・ドンヒ / 作画 冬空",
+								"contenturl": "comico://articlelist?titleno=23842&cf=N&push=Y",
+								"hrate": 1
+							},
+							{
+								"title": "週に何回ヤりたいですか？ ～アラサー女子のレス事情～",
+								"sno": "5_9_9D_6_11",
+								"thm": "http://comicimg.comico.jp/tmb/26095/75058b9c_1525832092569.jpg",
+								"order": 6,
+								"description": "",
+								"thmw": 275,
+								"thmh": 275,
+								"subtitle": "佐々木りん",
+								"contenturl": "comico://articlelist?titleno=26095&cf=N&push=Y",
+								"hrate": 1
+							},
+							{
+								"title": "復讐は知らないうちに",
+								"sno": "5_9_9D_7_11",
+								"thm": "http://comicimg.comico.jp/tmb/20087/16a60c3_1499391166715.jpg",
+								"order": 7,
+								"description": "",
+								"thmw": 275,
+								"thmh": 275,
+								"subtitle": "左久樂",
+								"contenturl": "comico://articlelist?titleno=20087&cf=N&push=Y",
+								"hrate": 1
+							},
+							{
+								"title": "イミテーション",
+								"sno": "5_9_9D_8_11",
+								"thm": "http://comicimg.comico.jp/tmb/20100/13bff_1524713475381.jpg",
+								"order": 8,
+								"description": "",
+								"thmw": 275,
+								"thmh": 275,
+								"subtitle": "RAN",
+								"contenturl": "comico://articlelist?titleno=20100&cf=N&push=Y",
+								"hrate": 1
+							},
+							{
+								"title": "硬い彼とやわらかすぎる彼女",
+								"sno": "5_9_9D_9_11",
+								"thm": "http://comicimg.comico.jp/tmb/1760/1bbd7_1522928604405.jpg",
+								"order": 9,
+								"description": "",
+								"thmw": 275,
+								"thmh": 275,
+								"subtitle": "sae",
+								"contenturl": "comico://articlelist?titleno=1760&cf=N&push=Y",
+								"hrate": 1
+							}
+						],
+						"tag": "ドラマ",
+						"tagtitle": "ドラマ上位作品"
+					},
+					{
+						"order": 2,
+						"items": [
+							{
+								"title": "妄想アクトレス！",
+								"sno": "5_9_9G_0_11",
+								"thm": "http://comicimg.comico.jp/tmb/24155/24ec6db5_1523532838022.jpg",
+								"order": 0,
+								"description": "",
+								"thmw": 275,
+								"thmh": 275,
+								"subtitle": "中島まお",
+								"contenturl": "comico://articlelist?titleno=24155&cf=N&push=Y",
+								"hrate": 1
+							},
+							{
+								"title": "ナンバカ",
+								"sno": "5_9_9G_1_11",
+								"thm": "http://comicimg.comico.jp/tmb/49/14535d8_1518684696737.jpg",
+								"order": 1,
+								"description": "",
+								"thmw": 275,
+								"thmh": 275,
+								"subtitle": "双又翔",
+								"contenturl": "comico://articlelist?titleno=49&cf=N&push=Y",
+								"hrate": 1
+							},
+							{
+								"title": "ちぐはぐ恋模様",
+								"sno": "5_9_9G_2_11",
+								"thm": "http://comicimg.comico.jp/tmb/21265/1070a0_1518749310758.jpg",
+								"order": 2,
+								"description": "",
+								"thmw": 275,
+								"thmh": 275,
+								"subtitle": "莉茉",
+								"contenturl": "comico://articlelist?titleno=21265&cf=N&push=Y",
+								"hrate": 1
+							},
+							{
+								"title": "もう秘書はやめます",
+								"sno": "5_9_9G_3_11",
+								"thm": "http://comicimg.comico.jp/tmb/23239/3af1f48c_1518750021264.jpg",
+								"order": 3,
+								"description": "",
+								"thmw": 275,
+								"thmh": 275,
+								"subtitle": "漫画：金明美 / 原作：鄭景允",
+								"contenturl": "comico://articlelist?titleno=23239&cf=N&push=Y",
+								"hrate": 1
+							},
+							{
+								"title": "パステル家族",
+								"sno": "5_9_9G_4_11",
+								"thm": "http://comicimg.comico.jp/tmb/32/61749_1442398753974.jpg",
+								"order": 4,
+								"description": "",
+								"thmw": 275,
+								"thmh": 275,
+								"subtitle": "セイ",
+								"contenturl": "comico://articlelist?titleno=32&cf=N&push=Y",
+								"hrate": 1
+							},
+							{
+								"title": "いつでもイヅル荘",
+								"sno": "5_9_9G_5_11",
+								"thm": "http://comicimg.comico.jp/tmb/5149/3a7bf57a_1522929453525.jpg",
+								"order": 5,
+								"description": "",
+								"thmw": 275,
+								"thmh": 275,
+								"subtitle": "とよのきつね。",
+								"contenturl": "comico://articlelist?titleno=5149&cf=N&push=Y",
+								"hrate": 1
+							},
+							{
+								"title": "暗黒ホテル",
+								"sno": "5_9_9G_6_11",
+								"thm": "http://comicimg.comico.jp/tmb/20109/16f83f32_1486629058788.jpg",
+								"order": 6,
+								"description": "",
+								"thmw": 275,
+								"thmh": 275,
+								"subtitle": "ヨシヒサ",
+								"contenturl": "comico://articlelist?titleno=20109&cf=N&push=Y",
+								"hrate": 1
+							},
+							{
+								"title": "ダメOLとお酒 ～イケメンを添えて～",
+								"sno": "5_9_9G_7_11",
+								"thm": "http://comicimg.comico.jp/tmb/20103/c8ce6cac_1523537346667.jpg",
+								"order": 7,
+								"description": "",
+								"thmw": 275,
+								"thmh": 275,
+								"subtitle": "時十葉あい",
+								"contenturl": "comico://articlelist?titleno=20103&cf=N&push=Y",
+								"hrate": 1
+							},
+							{
+								"title": "世界はハッピーエンドでできている",
+								"sno": "5_9_9G_8_11",
+								"thm": "http://comicimg.comico.jp/tmb/15545/135f9f7_1518692611797.jpg",
+								"order": 8,
+								"description": "",
+								"thmw": 275,
+								"thmh": 275,
+								"subtitle": "下西屋",
+								"contenturl": "comico://articlelist?titleno=15545&cf=N&push=Y",
+								"hrate": 1
+							},
+							{
+								"title": "たべられうさ。",
+								"sno": "5_9_9G_9_11",
+								"thm": "http://comicimg.comico.jp/tmb/20748/c47ff884_1525653145115.jpg",
+								"order": 9,
+								"description": "",
+								"thmw": 275,
+								"thmh": 275,
+								"subtitle": "ウミバード",
+								"contenturl": "comico://articlelist?titleno=20748&cf=N&push=Y",
+								"hrate": 1
+							}
+						],
+						"tag": "ギャグ",
+						"tagtitle": "ギャグ上位作品"
+					},
+					{
+						"order": 3,
+						"items": [
+							{
+								"title": "皇帝の一人娘",
+								"sno": "5_9_9R_0_11",
+								"thm": "http://comicimg.comico.jp/tmb/22327/23953dd7_1518749649193.jpg",
+								"order": 0,
+								"description": "",
+								"thmw": 275,
+								"thmh": 275,
+								"subtitle": "漫画：RINO 原作：YUNSUL",
+								"contenturl": "comico://articlelist?titleno=22327&cf=N&push=Y",
+								"hrate": 1
+							},
+							{
+								"title": "私を笑わないで",
+								"sno": "5_9_9R_1_11",
+								"thm": "http://comicimg.comico.jp/tmb/23085/16b2212b_1512544003581.jpg",
+								"order": 1,
+								"description": "",
+								"thmw": 275,
+								"thmh": 275,
+								"subtitle": "くるみ亮",
+								"contenturl": "comico://articlelist?titleno=23085&cf=N&push=Y",
+								"hrate": 1
+							},
+							{
+								"title": "カカオ79%",
+								"sno": "5_9_9R_2_11",
+								"thm": "http://comicimg.comico.jp/tmb/8166/1fc373e_1518691940216.jpg",
+								"order": 2,
+								"description": "",
+								"thmw": 275,
+								"thmh": 275,
+								"subtitle": "蒼井海",
+								"contenturl": "comico://articlelist?titleno=8166&cf=N&push=Y",
+								"hrate": 1
+							},
+							{
+								"title": "放課後、ラブホで、先生と。",
+								"sno": "5_9_9R_3_11",
+								"thm": "http://comicimg.comico.jp/tmb/24180/cdf047ef_1526376151837.jpg",
+								"order": 3,
+								"description": "",
+								"thmw": 275,
+								"thmh": 275,
+								"subtitle": "うつぎゆあ・uroco",
+								"contenturl": "comico://articlelist?titleno=24180&cf=N&push=Y",
+								"hrate": 1
+							},
+							{
+								"title": "異世界の皇妃",
+								"sno": "5_9_9R_4_11",
+								"thm": "http://comicimg.comico.jp/tmb/21267/a8d49a81_1518749361997.jpg",
+								"order": 4,
+								"description": "",
+								"thmw": 275,
+								"thmh": 275,
+								"subtitle": "HASH / VISCACHA",
+								"contenturl": "comico://articlelist?titleno=21267&cf=N&push=Y",
+								"hrate": 1
+							},
+							{
+								"title": "ニンゲンですが魔王に嫁ぐことになりました",
+								"sno": "5_9_9R_5_11",
+								"thm": "http://comicimg.comico.jp/tmb/23842/39dcb9ac_1520844557300.jpg",
+								"order": 5,
+								"description": "",
+								"thmw": 275,
+								"thmh": 275,
+								"subtitle": "原作 イ・ドンヒ / 作画 冬空",
+								"contenturl": "comico://articlelist?titleno=23842&cf=N&push=Y",
+								"hrate": 1
+							},
+							{
+								"title": "週に何回ヤりたいですか？ ～アラサー女子のレス事情～",
+								"sno": "5_9_9R_6_11",
+								"thm": "http://comicimg.comico.jp/tmb/26095/75058b9c_1525832092569.jpg",
+								"order": 6,
+								"description": "",
+								"thmw": 275,
+								"thmh": 275,
+								"subtitle": "佐々木りん",
+								"contenturl": "comico://articlelist?titleno=26095&cf=N&push=Y",
+								"hrate": 1
+							},
+							{
+								"title": "イミテーション",
+								"sno": "5_9_9R_7_11",
+								"thm": "http://comicimg.comico.jp/tmb/20100/13bff_1524713475381.jpg",
+								"order": 7,
+								"description": "",
+								"thmw": 275,
+								"thmh": 275,
+								"subtitle": "RAN",
+								"contenturl": "comico://articlelist?titleno=20100&cf=N&push=Y",
+								"hrate": 1
+							},
+							{
+								"title": "硬い彼とやわらかすぎる彼女",
+								"sno": "5_9_9R_8_11",
+								"thm": "http://comicimg.comico.jp/tmb/1760/1bbd7_1522928604405.jpg",
+								"order": 8,
+								"description": "",
+								"thmw": 275,
+								"thmh": 275,
+								"subtitle": "sae",
+								"contenturl": "comico://articlelist?titleno=1760&cf=N&push=Y",
+								"hrate": 1
+							},
+							{
+								"title": "妄想アクトレス！",
+								"sno": "5_9_9R_9_11",
+								"thm": "http://comicimg.comico.jp/tmb/24155/24ec6db5_1523532838022.jpg",
+								"order": 9,
+								"description": "",
+								"thmw": 275,
+								"thmh": 275,
+								"subtitle": "中島まお",
+								"contenturl": "comico://articlelist?titleno=24155&cf=N&push=Y",
+								"hrate": 1
+							}
+						],
+						"tag": "恋愛",
+						"tagtitle": "恋愛上位作品"
+					},
+					{
+						"order": 0,
+						"items": [
+							{
+								"title": "皇帝の一人娘",
+								"sno": "5_9_9FA_0_11",
+								"thm": "http://comicimg.comico.jp/tmb/22327/23953dd7_1518749649193.jpg",
+								"order": 0,
+								"description": "",
+								"thmw": 275,
+								"thmh": 275,
+								"subtitle": "漫画：RINO 原作：YUNSUL",
+								"contenturl": "comico://articlelist?titleno=22327&cf=N&push=Y",
+								"hrate": 1
+							},
+							{
+								"title": "ミイラの飼い方",
+								"sno": "5_9_9FA_1_11",
+								"thm": "http://comicimg.comico.jp/tmb/3410/ed8a6937_1443087726084.jpg",
+								"order": 1,
+								"description": "",
+								"thmw": 275,
+								"thmh": 275,
+								"subtitle": "空木かける",
+								"contenturl": "comico://articlelist?titleno=3410&cf=N&push=Y",
+								"hrate": 1
+							},
+							{
+								"title": "異世界の皇妃",
+								"sno": "5_9_9FA_2_11",
+								"thm": "http://comicimg.comico.jp/tmb/21267/a8d49a81_1518749361997.jpg",
+								"order": 2,
+								"description": "",
+								"thmw": 275,
+								"thmh": 275,
+								"subtitle": "HASH / VISCACHA",
+								"contenturl": "comico://articlelist?titleno=21267&cf=N&push=Y",
+								"hrate": 1
+							},
+							{
+								"title": "剣の王国（つるぎのおうこく）",
+								"sno": "5_9_9FA_3_11",
+								"thm": "http://comicimg.comico.jp/tmb/541/7b0fb0e2_1524712272246.jpg",
+								"order": 3,
+								"description": "",
+								"thmw": 275,
+								"thmh": 275,
+								"subtitle": "yoruhashi",
+								"contenturl": "comico://articlelist?titleno=541&cf=N&push=Y",
+								"hrate": 1
+							},
+							{
+								"title": "ニンゲンですが魔王に嫁ぐことになりました",
+								"sno": "5_9_9FA_4_11",
+								"thm": "http://comicimg.comico.jp/tmb/23842/39dcb9ac_1520844557300.jpg",
+								"order": 4,
+								"description": "",
+								"thmw": 275,
+								"thmh": 275,
+								"subtitle": "原作 イ・ドンヒ / 作画 冬空",
+								"contenturl": "comico://articlelist?titleno=23842&cf=N&push=Y",
+								"hrate": 1
+							},
+							{
+								"title": "彼と彼女の魔法契約",
+								"sno": "5_9_9FA_5_11",
+								"thm": "http://comicimg.comico.jp/tmb/20743/16b5704e_1526433075391.jpg",
+								"order": 5,
+								"description": "",
+								"thmw": 275,
+								"thmh": 275,
+								"subtitle": "しましま",
+								"contenturl": "comico://articlelist?titleno=20743&cf=N&push=Y",
+								"hrate": 1
+							},
+							{
+								"title": "水神鳴 ～みずかみなり～",
+								"sno": "5_9_9FA_6_11",
+								"thm": "http://comicimg.comico.jp/tmb/4235/4733a568_1522929006832.jpg",
+								"order": 6,
+								"description": "",
+								"thmw": 275,
+								"thmh": 275,
+								"subtitle": "せんりょう静",
+								"contenturl": "comico://articlelist?titleno=4235&cf=N&push=Y",
+								"hrate": 1
+							},
+							{
+								"title": "死役所",
+								"sno": "5_9_9FA_7_11",
+								"thm": "http://comicimg.comico.jp/tmb/24261/bec10f11_1523493790428.jpg",
+								"order": 7,
+								"description": "",
+								"thmw": 275,
+								"thmh": 275,
+								"subtitle": "あずみきし",
+								"contenturl": "comico://articlelist?titleno=24261&cf=N&push=Y",
+								"hrate": 1
+							},
+							{
+								"title": "保留荘の奴ら season2",
+								"sno": "5_9_9FA_8_11",
+								"thm": "http://comicimg.comico.jp/tmb/24771/c5219615_1523423212814.jpg",
+								"order": 8,
+								"description": "",
+								"thmw": 275,
+								"thmh": 275,
+								"subtitle": "ココなし。",
+								"contenturl": "comico://articlelist?titleno=24771&cf=N&push=Y",
+								"hrate": 1
+							},
+							{
+								"title": "光と影",
+								"sno": "5_9_9FA_9_11",
+								"thm": "http://comicimg.comico.jp/tmb/23866/1797220_1521103767403.jpg",
+								"order": 9,
+								"description": "",
+								"thmw": 275,
+								"thmh": 275,
+								"subtitle": "漫画：ひおん 原作：RYU",
+								"contenturl": "comico://articlelist?titleno=23866&cf=N&push=Y",
+								"hrate": 1
+							}
+						],
+						"tag": "ファンタジー",
+						"tagtitle": "ファンタジー上位作品"
+					}
+				],
+				"description": "公式マンガのTOP30",
+				"fontcolor": "",
+				"cardno": 5,
+				"backgroundcolor": "",
+				"header": [
+					{
+						"text": "",
+						"title": "ジャンル別ランキング",
+						"sno": "5_9_H_0_11",
+						"thm": "",
+						"order": 0,
+						"thmw": null,
+						"thmh": null,
+						"contenturl": "",
+						"hrate": 0,
+						"option": {
+							"text": "",
+							"color": ""
+						}
+					},
+					{
+						"text": "",
+						"title": "もっと見る",
+						"sno": "5_9_H_1_11",
+						"thm": "",
+						"order": 1,
+						"thmw": null,
+						"thmh": null,
+						"contenturl": "comico://rankinglist?push=Y&title=%E5%A5%B3%E6%80%A7%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0",
+						"hrate": 0
+					}
+				],
+				"mode": 0
+			},
+			{
+				"footer": [],
+				"cardtype": 4,
+				"cardorder": 10,
+				"contents": [
+					{
+						"thm": "http://images.comico.jp/up/bnr/card_minnashitteru.jpg",
+						"sno": "250_10_4211_0_4",
+						"imgadtag": "",
+						"order": 0,
+						"thmw": 750,
+						"thmh": 600,
+						"admobtaga": "",
+						"contenturl": "comico://articlelist?titleno=19999&push=Y",
+						"hrate": 0.8,
+						"admobtagi": ""
+					}
+				],
+				"description": "ホームカード",
+				"fontcolor": "",
+				"cardno": 250,
+				"backgroundcolor": "",
+				"header": [],
+				"mode": 0
+			},
+			{
+				"footer": [],
+				"cardtype": 5,
+				"cardorder": 11,
+				"contents": [
+					{
+						"title": "【書籍】ReLIFE⑧巻 書籍＆電子書籍 発売中!!",
+						"category": "お知らせ",
+						"thm": "http://images.comico.jp/up/bnr/180425_event.jpg",
+						"sno": "86_11_6111_0_5",
+						"order": 0,
+						"description": "大変長らくお待たせしました。パステル家族⑧巻も同時発売です。",
+						"thmw": 984,
+						"thmh": 393,
+						"subtitle": "2018.05.11",
+						"contenturl": "comico://webbrowser?url=http%3A%2F%2Fwww.comico.jp%2Fnotice%2Fdetail.nhn%3Fno%3D2818",
+						"strval1": "NCATE02",
+						"hrate": 0.3994
+					},
+					{
+						"title": "【書籍】『たべられうさ。』絶賛発売中！",
+						"category": "お知らせ",
+						"thm": "http://images.comico.jp/up/bnr/taberare_event201804.jpg",
+						"sno": "86_11_6643_1_5",
+						"order": 1,
+						"description": "書籍限定の番外編は、息子目線の『ぼくのにっき』 \r\n息子、安定のカワイさバクハツです&#10084;(&#3665;&#711;ε&#711;&#3665;)",
+						"thmw": 984,
+						"thmh": 393,
+						"subtitle": "2018.05.08",
+						"contenturl": "comico://webbrowser?url=http%3A%2F%2Fwww.comico.jp%2Fnotice%2Fdetail.nhn%3Fno%3D2813",
+						"strval1": "NCATE02",
+						"hrate": 0.3994
+					},
+					{
+						"title": "【特報】ベリーズ文庫タイトルがcomicoノベルに登場!!",
+						"category": "ノベル紹介",
+						"thm": "http://images.comico.jp/up/bnr/starts_event.jpg",
+						"sno": "86_11_5642_2_5",
+						"order": 2,
+						"description": "ちょっと大人向けなスターツ出版の珠玉の恋愛作品が盛りだくさん。",
+						"thmw": 984,
+						"thmh": 393,
+						"subtitle": "2018.04.24",
+						"contenturl": "comico://webbrowser?url=http%3A%2F%2Fwww.comico.jp%2Fnotice%2Fdetail.nhn%3Fno%3D2784",
+						"strval1": "NCATE06",
+						"hrate": 0.3994
+					}
+				],
+				"description": "お知らせ",
+				"fontcolor": "",
+				"cardno": 86,
+				"backgroundcolor": "",
+				"header": [
+					{
+						"text": "",
+						"title": "お知らせ",
+						"sno": "86_11_H_0_5",
+						"thm": "",
+						"order": 0,
+						"thmw": null,
+						"thmh": null,
+						"contenturl": "",
+						"hrate": 0,
+						"option": {
+							"text": "",
+							"color": ""
+						}
+					},
+					{
+						"text": "",
+						"title": "もっと見る",
+						"sno": "86_11_H_1_5",
+						"thm": "",
+						"order": 1,
+						"thmw": null,
+						"thmh": null,
+						"contenturl": "comico://noticelist?push=Y",
+						"hrate": 0
+					}
+				],
+				"mode": 0
+			},
+			{
+				"footer": [],
+				"cardtype": 9,
+				"cardorder": 12,
+				"contents": [
+					{
+						"thm": "http://images.comico.jp/up/list/shop_articlelist_phone.jpg",
+						"sno": "105_12_4976_0_9",
+						"order": 0,
+						"thmw": 640,
+						"thmh": 142,
+						"contenturl": "https://comico.meetmygoods.com/",
+						"strval1": "f56483",
+						"hrate": 0.2219
+					}
+				],
+				"description": "SHOP・書籍導線",
+				"fontcolor": "",
+				"cardno": 105,
+				"backgroundcolor": "",
+				"header": [],
+				"mode": 0
+			},
+			{
+				"footer": [],
+				"cardtype": 4,
+				"cardorder": 13,
+				"contents": [
+					{
+						"thm": "http://images.comico.jp/up/list/app_archive_event_712x160.jpg",
+						"sno": "139_13_1702_0_4",
+						"imgadtag": "",
+						"order": 0,
+						"thmw": 712,
+						"thmh": 160,
+						"admobtaga": "",
+						"contenturl": "comico://eventlist?push=Y",
+						"hrate": 0.2247,
+						"admobtagi": ""
+					},
+					{
+						"thm": "http://images.comico.jp/up/list/app_archive_comic2_712x160.jpg",
+						"sno": "139_13_1703_1_4",
+						"imgadtag": "",
+						"order": 1,
+						"thmw": 712,
+						"thmh": 160,
+						"admobtaga": "",
+						"contenturl": "comico://archivelist?push=Y",
+						"hrate": 0.2247,
+						"admobtagi": ""
+					}
+				],
+				"description": "常設導線バナー①",
+				"fontcolor": "",
+				"cardno": 139,
+				"backgroundcolor": "",
+				"header": [
+					{
+						"text": "",
+						"title": "注目のイベント・作品情報",
+						"sno": "139_13_H_0_4",
+						"thm": "",
+						"order": 0,
+						"thmw": null,
+						"thmh": null,
+						"contenturl": "",
+						"hrate": 0,
+						"option": {
+							"text": "",
+							"color": ""
+						}
+					}
+				],
+				"mode": 0
+			},
+			{
+				"footer": [],
+				"cardtype": 7,
+				"cardorder": 14,
+				"contents": null,
+				"description": "フッター",
+				"fontcolor": "",
+				"cardno": 12,
+				"backgroundcolor": "",
+				"header": [],
+				"mode": 0
+			}
+		]
+	}
+}

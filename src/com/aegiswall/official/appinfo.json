@@ -1,0 +1,48 @@
+{
+	"result": 200,
+	"data": {
+		"reward_ad_ratio": {
+			"fluct_list": "0,1"
+		},
+		"time_remaining_until_today": {
+			"miliseconds": 3600000
+		},
+		"comic_overscroll": {
+			"ignore_list": "0,1,2,3,4,5,6,7,8,9",
+			"enable": "Y"
+		},
+		"push_rental_recovery": {
+			"enable": "N",
+			"ignore_comic": "",
+			"ignore_novel": ""
+		},
+		"ad_id_list": {
+			"adfurikun_login_bonus_i": "58a16c312d34959261000b1a",
+			"adfurikun_postbox_a": "58a168b82e3495b47e0007a4",
+			"adfurikun_rental_i": "599270082e34953f5e000203",
+			"fluct_ticket_group_i": "1000090604",
+			"fluct_postbox_group_i": "1000090983",
+			"adfurikun_login_bonus_a": "58a168b82e3495b47e0007a4",
+			"adfurikun_native_a": "5a988bf242f0841552000014",
+			"fluct_ticket_unit_i": "1000135904",
+			"fluct_login_unit_i": "1000135902",
+			"fluct_rental_unit_i": "1000135903",
+			"adfurikun_ticket_a": "591571332d34953d2f0000ed",
+			"fluct_login_group_i": "1000090602",
+			"adfurikun_native_i": "5a988bc542f084205200001b",
+			"fluct_rental_group_i": "1000090603",
+			"adfurikun_ticket_i": "591570b12e34955a6f000bd6",
+			"fluct_postbox_unit_i": "1000136538",
+			"adfurikun_rental_a": "599270302e34953e5e00020e",
+			"adfurikun_postbox_i": "58a16c312d34959261000b1a"
+		},
+		"vod_reward_notice": {
+			"message": "CM終了後に作品を読めます",
+			"enable": "Y"
+		},
+		"app_guard_setting": {
+			"ignore_list": "",
+			"enable": "Y"
+		}
+	}
+}
